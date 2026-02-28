@@ -1,9 +1,9 @@
-import { pgTable, text, serial, integer } from "drizzle-orm/pg-core";
+import { sqliteTable, text, integer } from "drizzle-orm/sqlite-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
-export const terms = pgTable("terms", {
-  id: serial("id").primaryKey(),
+export const terms = sqliteTable("terms", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
   term: text("term").notNull(),
   definition: text("definition").notNull(),
   context: text("context").notNull(),
@@ -11,7 +11,7 @@ export const terms = pgTable("terms", {
   unitNumber: integer("unit_number").notNull(),
   unitTitle: text("unit_title").notNull(),
   category: text("category").notNull(),
-  course: text("course").notNull(), // "1º Curso" or "2º Curso"
+  course: text("course").notNull(),
   imageUrl: text("image_url"),
 });
 

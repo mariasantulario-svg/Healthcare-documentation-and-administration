@@ -16,8 +16,15 @@ export async function registerRoutes(
   if (existingTerms.length === 0) {
     console.log("Seeding database with complete vocabulary database...");
     try {
-      const jsonPath = path.join(process.cwd(), "attached_assets", "healthcare_vocabulary_COMPLETE_1770292856645.json");
-      const rawData = fs.readFileSync(jsonPath, "utf-8");
+      const possiblePaths = [
+        path.join(process.cwd(), "attached_assets", "healthcare_vocabulary_COMPLETE_1770292856645.json"),
+        path.join(process.cwd(), "..", "attached_assets", "healthcare_vocabulary_COMPLETE_1770292856645.json"),
+      ];
+      const jsonPath = possiblePaths.find((p) => fs.existsSync(p));
+      if (!jsonPath) {
+        console.warn("Seed file not found (attached_assets/healthcare_vocabulary_COMPLETE_*.json). Add it to the repo for initial data.");
+      } else {
+        const rawData = fs.readFileSync(jsonPath, "utf-8");
       const vocabularyData = JSON.parse(rawData);
 
       for (const unit of vocabularyData.units) {
@@ -36,6 +43,7 @@ export async function registerRoutes(
         }
       }
       console.log(`Seeding complete. Added ${vocabularyData.metadata.totalTerms} terms.`);
+      }
     } catch (error) {
       console.error("Error seeding database:", error);
     }

@@ -1,0 +1,10 @@
+# Render.com Blueprint - despliega conectando este repo en https://dashboard.render.com
+services:
+  - type: web
+    name: health-vocab-app
+    env: node
+    buildCommand: npm install && npm run build && npm run db:push
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
