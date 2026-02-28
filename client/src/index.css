@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  --font-display: 'Outfit', sans-serif;
+  
+  --background: 210 40% 98%;
+  --foreground: 222 47% 11%;
+  
+  --primary: 199 89% 48%;
+  --primary-foreground: 210 40% 98%;
+  
+  --secondary: 158 36% 91%;
+  --secondary-foreground: 161 94% 30%;
+  
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 16% 47%;
+  
+  --accent: 158 36% 94%;
+  --accent-foreground: 161 94% 30%;
+  
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+
+  --border: 214 32% 91%;
+  --input: 214 32% 91%;
+  --ring: 199 89% 48%;
+  
+  --radius: 1rem;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased text-foreground min-h-screen;
+    background: linear-gradient(135deg, #e0f2fe 0%, #dcfce7 100%);
+    background-attachment: fixed;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply tracking-tight font-bold;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply bg-white/95 backdrop-blur-md border border-white/20 shadow-xl;
+  }
+  
+  .card-gradient {
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+  }
+}
+
+/* 3D Flip Card Styles */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}

@@ -1,0 +1,3213 @@
+{
+  "metadata": {
+    "title": "Healthcare Documentation & Administration - Complete Vocabulary",
+    "cycle": "CFGS Documentación y Administración Sanitarias",
+    "level": "Grado Superior",
+    "totalUnits": 18,
+    "totalTerms": 436,
+    "courses": [
+      "1º Curso",
+      "2º Curso"
+    ],
+    "version": "1.0",
+    "lastUpdated": "2026-02-04"
+  },
+  "units": [
+    {
+      "unitNumber": 1,
+      "unitTitle": "Healthcare Settings & Facilities",
+      "course": "1º Curso",
+      "category": "Contextos sanitarios",
+      "vocabulary": [
+        {
+          "term": "Emergency room (ER)",
+          "definition": "Hospital department providing immediate treatment for urgent medical conditions",
+          "context": "The patient was rushed to the emergency room after the accident.",
+          "spanish": "Urgencias",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Accident & Emergency (A&E)",
+          "definition": "British term for emergency room",
+          "context": "A&E departments handle trauma cases 24 hours a day.",
+          "spanish": "Urgencias (término británico)",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Operating theatre (OR)",
+          "definition": "Specialized room where surgical procedures are performed",
+          "context": "The operating theatre must be kept sterile at all times.",
+          "spanish": "Quirófano",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Intensive Care Unit (ICU)",
+          "definition": "Hospital unit providing critical care for seriously ill patients",
+          "context": "After surgery, she was transferred to the ICU for monitoring.",
+          "spanish": "Unidad de Cuidados Intensivos (UCI)",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Ward",
+          "definition": "Hospital room or area where patients stay during treatment",
+          "context": "The maternity ward has ten beds for new mothers.",
+          "spanish": "Sala / Planta hospitalaria",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Outpatient clinic",
+          "definition": "Medical facility where patients receive care without staying overnight",
+          "context": "The outpatient clinic handles follow-up appointments and consultations.",
+          "spanish": "Consulta externa / Ambulatorio",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Radiology department",
+          "definition": "Hospital area specializing in medical imaging procedures",
+          "context": "The radiology department performs X-rays, CT scans, and MRIs.",
+          "spanish": "Servicio de radiología",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Laboratory",
+          "definition": "Facility where medical tests and analyses are performed",
+          "context": "Blood samples are sent to the laboratory for analysis.",
+          "spanish": "Laboratorio",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Pharmacy",
+          "definition": "Department that prepares and dispenses medications",
+          "context": "The hospital pharmacy provides medications for all inpatients.",
+          "spanish": "Farmacia hospitalaria",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Admission office",
+          "definition": "Area where patient registration and admission procedures occur",
+          "context": "Please report to the admission office with your insurance information.",
+          "spanish": "Oficina de admisión / Admisiones",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Discharge lounge",
+          "definition": "Waiting area for patients being released from hospital",
+          "context": "Patients wait in the discharge lounge until transportation arrives.",
+          "spanish": "Sala de altas",
+          "category": "Hospital areas"
+        },
+        {
+          "term": "Health center",
+          "definition": "Community facility providing primary healthcare services",
+          "context": "The health center offers vaccinations and routine check-ups.",
+          "spanish": "Centro de salud",
+          "category": "Primary care facilities"
+        },
+        {
+          "term": "GP surgery",
+          "definition": "Medical practice of a general practitioner",
+          "context": "I have an appointment at my GP surgery next Tuesday.",
+          "spanish": "Consultorio médico / Centro de atención primaria",
+          "category": "Primary care facilities"
+        },
+        {
+          "term": "Walk-in clinic",
+          "definition": "Healthcare facility accepting patients without appointments",
+          "context": "The walk-in clinic is open for urgent non-emergency cases.",
+          "spanish": "Clínica sin cita previa",
+          "category": "Primary care facilities"
+        },
+        {
+          "term": "Urgent care center",
+          "definition": "Facility treating injuries and illnesses requiring immediate attention",
+          "context": "Urgent care centers bridge the gap between primary care and emergency rooms.",
+          "spanish": "Centro de atención urgente",
+          "category": "Primary care facilities"
+        },
+        {
+          "term": "Rehabilitation center",
+          "definition": "Facility specializing in physical and occupational therapy",
+          "context": "The rehabilitation center helped him recover mobility after the stroke.",
+          "spanish": "Centro de rehabilitación",
+          "category": "Specialized centers"
+        },
+        {
+          "term": "Mental health facility",
+          "definition": "Center providing psychiatric and psychological services",
+          "context": "The mental health facility offers both inpatient and outpatient programs.",
+          "spanish": "Centro de salud mental",
+          "category": "Specialized centers"
+        },
+        {
+          "term": "Nursing home",
+          "definition": "Residential facility providing long-term care for elderly patients",
+          "context": "The nursing home provides 24-hour nursing care and assistance.",
+          "spanish": "Residencia de ancianos / Geriátrico",
+          "category": "Specialized centers"
+        },
+        {
+          "term": "Hospice",
+          "definition": "Facility providing end-of-life care focusing on comfort",
+          "context": "Hospice care emphasizes pain management and emotional support.",
+          "spanish": "Centro de cuidados paliativos",
+          "category": "Specialized centers"
+        },
+        {
+          "term": "Day hospital",
+          "definition": "Facility where patients receive treatment during the day and return home",
+          "context": "Chemotherapy is often administered in a day hospital setting.",
+          "spanish": "Hospital de día",
+          "category": "Specialized centers"
+        },
+        {
+          "term": "Reception desk",
+          "definition": "Front area where patients check in and receive information",
+          "context": "Please sign in at the reception desk when you arrive.",
+          "spanish": "Recepción / Mostrador de información",
+          "category": "Hospital infrastructure"
+        },
+        {
+          "term": "Waiting room",
+          "definition": "Area where patients wait before appointments",
+          "context": "The waiting room has magazines and a television for patient comfort.",
+          "spanish": "Sala de espera",
+          "category": "Hospital infrastructure"
+        },
+        {
+          "term": "Consultation room",
+          "definition": "Private room where doctors examine and consult with patients",
+          "context": "The doctor will see you in consultation room three.",
+          "spanish": "Sala de consulta / Consulta",
+          "category": "Hospital infrastructure"
+        },
+        {
+          "term": "Treatment room",
+          "definition": "Room where medical procedures and treatments are performed",
+          "context": "The nurse will dress your wound in the treatment room.",
+          "spanish": "Sala de curas / Sala de tratamientos",
+          "category": "Hospital infrastructure"
+        },
+        {
+          "term": "Recovery room",
+          "definition": "Area where patients awaken after anesthesia",
+          "context": "Patients are monitored closely in the recovery room post-surgery.",
+          "spanish": "Sala de recuperación / Reanimación",
+          "category": "Hospital infrastructure"
+        },
+        {
+          "term": "Isolation room",
+          "definition": "Special room for patients with contagious conditions",
+          "context": "The isolation room has negative pressure to prevent infection spread.",
+          "spanish": "Sala de aislamiento",
+          "category": "Hospital infrastructure"
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "unitTitle": "Healthcare Positions & Roles",
+      "course": "1º Curso",
+      "category": "Personal sanitario",
+      "vocabulary": [
+        {
+          "term": "Physician",
+          "definition": "Licensed medical doctor who diagnoses and treats illnesses",
+          "context": "The physician ordered additional tests to confirm the diagnosis.",
+          "spanish": "Médico",
+          "category": "Medical staff"
+        },
+        {
+          "term": "General Practitioner (GP)",
+          "definition": "Primary care doctor treating common medical conditions",
+          "context": "My GP referred me to a specialist for further evaluation.",
+          "spanish": "Médico de cabecera / Médico de familia",
+          "category": "Medical staff"
+        },
+        {
+          "term": "Consultant",
+          "definition": "Senior specialist doctor in a particular medical field",
+          "context": "The consultant reviewed the case and recommended surgery.",
+          "spanish": "Médico especialista (senior)",
+          "category": "Medical staff"
+        },
+        {
+          "term": "Surgeon",
+          "definition": "Doctor who performs surgical operations",
+          "context": "The surgeon successfully removed the tumor.",
+          "spanish": "Cirujano/a",
+          "category": "Medical staff"
+        },
+        {
+          "term": "Registered Nurse (RN)",
+          "definition": "Licensed healthcare professional providing patient care",
+          "context": "The registered nurse monitored vital signs throughout the shift.",
+          "spanish": "Enfermero/a titulado/a (DUE)",
+          "category": "Nursing staff"
+        },
+        {
+          "term": "Nurse practitioner",
+          "definition": "Advanced practice nurse who can diagnose and prescribe",
+          "context": "The nurse practitioner managed chronic disease patients independently.",
+          "spanish": "Enfermero/a de práctica avanzada",
+          "category": "Nursing staff"
+        },
+        {
+          "term": "Licensed Practical Nurse (LPN)",
+          "definition": "Nurse providing basic patient care under supervision",
+          "context": "The LPN assisted with daily patient hygiene and comfort measures.",
+          "spanish": "Auxiliar de enfermería titulado/a",
+          "category": "Nursing staff"
+        },
+        {
+          "term": "Nursing assistant",
+          "definition": "Healthcare worker assisting nurses with patient care",
+          "context": "The nursing assistant helped patients with bathing and meals.",
+          "spanish": "Auxiliar de enfermería / TCAE",
+          "category": "Support staff"
+        },
+        {
+          "term": "Medical records technician",
+          "definition": "Professional managing patient health information and documentation",
+          "context": "The medical records technician ensured all documents were properly filed.",
+          "spanish": "Técnico/a en documentación sanitaria",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Health information manager",
+          "definition": "Professional overseeing health data systems and compliance",
+          "context": "The health information manager implemented the new electronic records system.",
+          "spanish": "Responsable de información sanitaria",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Medical coder",
+          "definition": "Specialist who assigns diagnostic and procedure codes",
+          "context": "The medical coder translated diagnoses into ICD-10 codes for billing.",
+          "spanish": "Codificador/a clínico/a",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Patient coordinator",
+          "definition": "Staff member managing patient scheduling and communication",
+          "context": "The patient coordinator arranged all specialist appointments.",
+          "spanish": "Coordinador/a de pacientes",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Receptionist",
+          "definition": "Front desk staff handling patient check-in and inquiries",
+          "context": "The receptionist greeted patients and verified insurance information.",
+          "spanish": "Recepcionista",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Medical secretary",
+          "definition": "Administrative professional supporting medical staff",
+          "context": "The medical secretary transcribed doctor's notes and managed correspondence.",
+          "spanish": "Secretario/a médico/a",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Billing specialist",
+          "definition": "Professional handling medical billing and insurance claims",
+          "context": "The billing specialist processed insurance claims and patient invoices.",
+          "spanish": "Especialista en facturación médica",
+          "category": "Administrative staff"
+        },
+        {
+          "term": "Pharmacist",
+          "definition": "Licensed professional who dispenses and advises on medications",
+          "context": "The pharmacist counseled patients about medication side effects.",
+          "spanish": "Farmacéutico/a",
+          "category": "Allied health"
+        },
+        {
+          "term": "Radiologist",
+          "definition": "Doctor specializing in interpreting medical images",
+          "context": "The radiologist detected an abnormality on the chest X-ray.",
+          "spanish": "Radiólogo/a",
+          "category": "Medical staff"
+        },
+        {
+          "term": "Radiographer",
+          "definition": "Technician who performs imaging procedures",
+          "context": "The radiographer positioned the patient for the CT scan.",
+          "spanish": "Técnico/a en radiología",
+          "category": "Allied health"
+        },
+        {
+          "term": "Laboratory technician",
+          "definition": "Professional performing medical tests and analyses",
+          "context": "The laboratory technician processed blood samples for testing.",
+          "spanish": "Técnico/a de laboratorio",
+          "category": "Allied health"
+        },
+        {
+          "term": "Physiotherapist",
+          "definition": "Healthcare professional treating movement disorders",
+          "context": "The physiotherapist designed exercises to improve mobility.",
+          "spanish": "Fisioterapeuta",
+          "category": "Allied health"
+        },
+        {
+          "term": "Occupational therapist",
+          "definition": "Professional helping patients perform daily activities",
+          "context": "The occupational therapist taught adaptive techniques for dressing.",
+          "spanish": "Terapeuta ocupacional",
+          "category": "Allied health"
+        },
+        {
+          "term": "Social worker",
+          "definition": "Professional providing psychosocial support and resources",
+          "context": "The social worker arranged home care services for the elderly patient.",
+          "spanish": "Trabajador/a social",
+          "category": "Support staff"
+        },
+        {
+          "term": "Paramedic",
+          "definition": "Emergency medical technician providing pre-hospital care",
+          "context": "The paramedics stabilized the patient during transport.",
+          "spanish": "Paramédico/a / Técnico/a en emergencias sanitarias",
+          "category": "Emergency services"
+        },
+        {
+          "term": "Ward clerk",
+          "definition": "Administrative support staff on hospital wards",
+          "context": "The ward clerk coordinated patient admissions and discharges.",
+          "spanish": "Auxiliar administrativo/a de planta",
+          "category": "Administrative staff"
+        }
+      ]
+    },
+    {
+      "unitNumber": 3,
+      "unitTitle": "Body Systems & Anatomical Terms",
+      "course": "1º Curso",
+      "category": "Anatomía",
+      "vocabulary": [
+        {
+          "term": "Cardiovascular system",
+          "definition": "Body system consisting of heart and blood vessels",
+          "context": "The cardiovascular system transports oxygen and nutrients throughout the body.",
+          "spanish": "Sistema cardiovascular",
+          "category": "Body systems"
+        },
+        {
+          "term": "Respiratory system",
+          "definition": "Organs involved in breathing and gas exchange",
+          "context": "The respiratory system includes the lungs, trachea, and bronchi.",
+          "spanish": "Sistema respiratorio / Aparato respiratorio",
+          "category": "Body systems"
+        },
+        {
+          "term": "Digestive system",
+          "definition": "Organs that break down and absorb food",
+          "context": "The digestive system processes nutrients from ingestion to elimination.",
+          "spanish": "Sistema digestivo / Aparato digestivo",
+          "category": "Body systems"
+        },
+        {
+          "term": "Nervous system",
+          "definition": "Network controlling body functions through electrical signals",
+          "context": "The nervous system coordinates voluntary and involuntary actions.",
+          "spanish": "Sistema nervioso",
+          "category": "Body systems"
+        },
+        {
+          "term": "Musculoskeletal system",
+          "definition": "Bones, muscles, and connective tissues providing structure and movement",
+          "context": "The musculoskeletal system supports the body and enables locomotion.",
+          "spanish": "Sistema musculoesquelético / Aparato locomotor",
+          "category": "Body systems"
+        },
+        {
+          "term": "Urinary system",
+          "definition": "Organs that filter blood and produce urine",
+          "context": "The urinary system eliminates waste products from the bloodstream.",
+          "spanish": "Sistema urinario / Aparato urinario",
+          "category": "Body systems"
+        },
+        {
+          "term": "Reproductive system",
+          "definition": "Organs involved in human reproduction",
+          "context": "The reproductive system differs between male and female anatomy.",
+          "spanish": "Sistema reproductor / Aparato reproductor",
+          "category": "Body systems"
+        },
+        {
+          "term": "Endocrine system",
+          "definition": "Glands that secrete hormones regulating body functions",
+          "context": "The endocrine system controls metabolism, growth, and development.",
+          "spanish": "Sistema endocrino",
+          "category": "Body systems"
+        },
+        {
+          "term": "Immune system",
+          "definition": "Body's defense mechanism against pathogens",
+          "context": "The immune system identifies and destroys harmful microorganisms.",
+          "spanish": "Sistema inmunológico / Sistema inmunitario",
+          "category": "Body systems"
+        },
+        {
+          "term": "Integumentary system",
+          "definition": "Skin, hair, and nails forming body's outer covering",
+          "context": "The integumentary system protects internal organs from external threats.",
+          "spanish": "Sistema tegumentario",
+          "category": "Body systems"
+        },
+        {
+          "term": "Heart",
+          "definition": "Muscular organ pumping blood throughout the body",
+          "context": "The heart beats approximately 100,000 times per day.",
+          "spanish": "Corazón",
+          "category": "Major organs"
+        },
+        {
+          "term": "Lungs",
+          "definition": "Paired organs responsible for gas exchange",
+          "context": "The lungs extract oxygen from air and release carbon dioxide.",
+          "spanish": "Pulmones",
+          "category": "Major organs"
+        },
+        {
+          "term": "Brain",
+          "definition": "Central organ of the nervous system controlling body functions",
+          "context": "The brain processes sensory information and coordinates responses.",
+          "spanish": "Cerebro",
+          "category": "Major organs"
+        },
+        {
+          "term": "Liver",
+          "definition": "Large organ processing nutrients and detoxifying substances",
+          "context": "The liver performs over 500 vital functions including bile production.",
+          "spanish": "Hígado",
+          "category": "Major organs"
+        },
+        {
+          "term": "Kidneys",
+          "definition": "Paired organs filtering blood and producing urine",
+          "context": "The kidneys remove waste products and regulate fluid balance.",
+          "spanish": "Riñones",
+          "category": "Major organs"
+        },
+        {
+          "term": "Stomach",
+          "definition": "Organ that digests food using acids and enzymes",
+          "context": "The stomach secretes gastric acid to break down proteins.",
+          "spanish": "Estómago",
+          "category": "Major organs"
+        },
+        {
+          "term": "Pancreas",
+          "definition": "Gland producing digestive enzymes and insulin",
+          "context": "The pancreas regulates blood sugar levels through hormone secretion.",
+          "spanish": "Páncreas",
+          "category": "Major organs"
+        },
+        {
+          "term": "Spleen",
+          "definition": "Organ filtering blood and supporting immune function",
+          "context": "The spleen removes old blood cells and stores platelets.",
+          "spanish": "Bazo",
+          "category": "Major organs"
+        },
+        {
+          "term": "Anterior",
+          "definition": "Located toward the front of the body",
+          "context": "The sternum is anterior to the heart.",
+          "spanish": "Anterior",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Posterior",
+          "definition": "Located toward the back of the body",
+          "context": "The spine is posterior to the abdominal cavity.",
+          "spanish": "Posterior",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Superior",
+          "definition": "Located above or toward the head",
+          "context": "The shoulders are superior to the hips.",
+          "spanish": "Superior",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Inferior",
+          "definition": "Located below or toward the feet",
+          "context": "The stomach is inferior to the lungs.",
+          "spanish": "Inferior",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Medial",
+          "definition": "Located toward the midline of the body",
+          "context": "The nose is medial to the eyes.",
+          "spanish": "Medial",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Lateral",
+          "definition": "Located away from the midline of the body",
+          "context": "The arms are lateral to the chest.",
+          "spanish": "Lateral",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Proximal",
+          "definition": "Located closer to the point of attachment or trunk",
+          "context": "The elbow is proximal to the wrist.",
+          "spanish": "Proximal",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Distal",
+          "definition": "Located farther from the point of attachment or trunk",
+          "context": "The fingers are distal to the elbow.",
+          "spanish": "Distal",
+          "category": "Anatomical positions"
+        },
+        {
+          "term": "Sagittal plane",
+          "definition": "Vertical plane dividing body into left and right sections",
+          "context": "The sagittal plane runs from front to back through the midline.",
+          "spanish": "Plano sagital",
+          "category": "Body planes"
+        },
+        {
+          "term": "Frontal plane",
+          "definition": "Vertical plane dividing body into anterior and posterior sections",
+          "context": "The frontal plane separates the front from the back of the body.",
+          "spanish": "Plano frontal / Plano coronal",
+          "category": "Body planes"
+        },
+        {
+          "term": "Transverse plane",
+          "definition": "Horizontal plane dividing body into superior and inferior sections",
+          "context": "The transverse plane cuts across the body perpendicular to its length.",
+          "spanish": "Plano transversal",
+          "category": "Body planes"
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "unitTitle": "Medical Terminology - Word Parts",
+      "course": "1º Curso",
+      "category": "Terminología médica",
+      "vocabulary": [
+        {
+          "term": "Hyper-",
+          "definition": "Prefix meaning excessive, above normal, or increased",
+          "context": "Hypertension refers to abnormally high blood pressure.",
+          "spanish": "Hiper- (exceso, por encima)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Hypo-",
+          "definition": "Prefix meaning below normal, deficient, or decreased",
+          "context": "Hypoglycemia means low blood sugar levels.",
+          "spanish": "Hipo- (deficiencia, por debajo)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Brady-",
+          "definition": "Prefix meaning slow",
+          "context": "Bradycardia indicates an abnormally slow heart rate.",
+          "spanish": "Bradi- (lento)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Tachy-",
+          "definition": "Prefix meaning fast or rapid",
+          "context": "Tachypnea describes abnormally rapid breathing.",
+          "spanish": "Taqui- (rápido)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Poly-",
+          "definition": "Prefix meaning many or excessive",
+          "context": "Polydipsia means excessive thirst.",
+          "spanish": "Poli- (muchos, múltiple)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Oligo-",
+          "definition": "Prefix meaning few or scanty",
+          "context": "Oliguria refers to decreased urine production.",
+          "spanish": "Oligo- (poco, escaso)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "A-/An-",
+          "definition": "Prefix meaning without or absence of",
+          "context": "Anemia means a deficiency of red blood cells.",
+          "spanish": "A-/An- (sin, ausencia de)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Dys-",
+          "definition": "Prefix meaning difficult, painful, or abnormal",
+          "context": "Dysphagia describes difficulty swallowing.",
+          "spanish": "Dis- (dificultad, anormal)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Endo-",
+          "definition": "Prefix meaning within or inside",
+          "context": "Endoscopy is a procedure examining inside the body.",
+          "spanish": "Endo- (dentro)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Epi-",
+          "definition": "Prefix meaning upon, above, or outer",
+          "context": "The epidermis is the outer layer of skin.",
+          "spanish": "Epi- (sobre, encima)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Peri-",
+          "definition": "Prefix meaning around or surrounding",
+          "context": "The pericardium is the membrane surrounding the heart.",
+          "spanish": "Peri- (alrededor)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Pre-",
+          "definition": "Prefix meaning before or in front of",
+          "context": "Prenatal care occurs before birth.",
+          "spanish": "Pre- (antes)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "Post-",
+          "definition": "Prefix meaning after or following",
+          "context": "Postoperative care follows surgical procedures.",
+          "spanish": "Post- (después)",
+          "category": "Prefixes"
+        },
+        {
+          "term": "-itis",
+          "definition": "Suffix meaning inflammation",
+          "context": "Appendicitis is inflammation of the appendix.",
+          "spanish": "-itis (inflamación)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-ectomy",
+          "definition": "Suffix meaning surgical removal",
+          "context": "Appendectomy is the surgical removal of the appendix.",
+          "spanish": "-ectomía (extirpación quirúrgica)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-ostomy",
+          "definition": "Suffix meaning surgical creation of an opening",
+          "context": "Colostomy creates an opening for waste elimination.",
+          "spanish": "-ostomía (creación de abertura)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-otomy",
+          "definition": "Suffix meaning surgical incision or cutting",
+          "context": "Tracheotomy involves cutting into the trachea.",
+          "spanish": "-otomía (incisión quirúrgica)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-osis",
+          "definition": "Suffix meaning abnormal condition or disease",
+          "context": "Osteoporosis is a condition of bone density loss.",
+          "spanish": "-osis (condición anormal)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-ology",
+          "definition": "Suffix meaning study of",
+          "context": "Cardiology is the study of the heart and its diseases.",
+          "spanish": "-logía (estudio de)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-ologist",
+          "definition": "Suffix meaning specialist in the study of",
+          "context": "A neurologist specializes in nervous system disorders.",
+          "spanish": "-ólogo (especialista)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-plasty",
+          "definition": "Suffix meaning surgical repair or reconstruction",
+          "context": "Rhinoplasty is surgical reconstruction of the nose.",
+          "spanish": "-plastia (reparación quirúrgica)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-scopy",
+          "definition": "Suffix meaning visual examination using an instrument",
+          "context": "Colonoscopy allows visual examination of the colon.",
+          "spanish": "-scopia (examen visual)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-pathy",
+          "definition": "Suffix meaning disease or disorder",
+          "context": "Neuropathy refers to nerve damage or disease.",
+          "spanish": "-patía (enfermedad)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-penia",
+          "definition": "Suffix meaning deficiency or abnormal reduction",
+          "context": "Leukopenia indicates a low white blood cell count.",
+          "spanish": "-penia (deficiencia)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-megaly",
+          "definition": "Suffix meaning enlargement",
+          "context": "Cardiomegaly describes an enlarged heart.",
+          "spanish": "-megalia (agrandamiento)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-algia",
+          "definition": "Suffix meaning pain",
+          "context": "Neuralgia refers to nerve pain.",
+          "spanish": "-algia (dolor)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "-rrhea",
+          "definition": "Suffix meaning flow or discharge",
+          "context": "Diarrhea involves excessive bowel discharge.",
+          "spanish": "-rrea (flujo, secreción)",
+          "category": "Suffixes"
+        },
+        {
+          "term": "Cardi/o",
+          "definition": "Root word meaning heart",
+          "context": "Cardiovascular pertains to the heart and blood vessels.",
+          "spanish": "Cardi/o (corazón)",
+          "category": "Root words"
+        },
+        {
+          "term": "Derm/o",
+          "definition": "Root word meaning skin",
+          "context": "Dermatology is the medical specialty focusing on skin.",
+          "spanish": "Derm/o (piel)",
+          "category": "Root words"
+        },
+        {
+          "term": "Gastr/o",
+          "definition": "Root word meaning stomach",
+          "context": "Gastritis is inflammation of the stomach lining.",
+          "spanish": "Gastr/o (estómago)",
+          "category": "Root words"
+        },
+        {
+          "term": "Hepat/o",
+          "definition": "Root word meaning liver",
+          "context": "Hepatitis refers to liver inflammation.",
+          "spanish": "Hepat/o (hígado)",
+          "category": "Root words"
+        },
+        {
+          "term": "Nephr/o",
+          "definition": "Root word meaning kidney",
+          "context": "Nephrology deals with kidney diseases.",
+          "spanish": "Nefr/o (riñón)",
+          "category": "Root words"
+        },
+        {
+          "term": "Neur/o",
+          "definition": "Root word meaning nerve",
+          "context": "Neurology is the study of the nervous system.",
+          "spanish": "Neur/o (nervio)",
+          "category": "Root words"
+        },
+        {
+          "term": "Oste/o",
+          "definition": "Root word meaning bone",
+          "context": "Osteoporosis involves loss of bone density.",
+          "spanish": "Oste/o (hueso)",
+          "category": "Root words"
+        },
+        {
+          "term": "Pneum/o",
+          "definition": "Root word meaning lung or air",
+          "context": "Pneumonia is infection of the lungs.",
+          "spanish": "Pneum/o (pulmón, aire)",
+          "category": "Root words"
+        }
+      ]
+    },
+    {
+      "unitNumber": 5,
+      "unitTitle": "Symptoms & Signs",
+      "course": "1º Curso",
+      "category": "Síntomas clínicos",
+      "vocabulary": [
+        {
+          "term": "Fever",
+          "definition": "Elevated body temperature above normal range",
+          "context": "The patient presented with a fever of 39°C.",
+          "spanish": "Fiebre",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Chills",
+          "definition": "Feeling of coldness with shivering",
+          "context": "She experienced chills and sweating during the infection.",
+          "spanish": "Escalofríos",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Fatigue",
+          "definition": "Extreme tiredness or exhaustion",
+          "context": "Chronic fatigue interfered with his daily activities.",
+          "spanish": "Fatiga / Cansancio",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Weakness",
+          "definition": "Lack of physical strength or energy",
+          "context": "Muscle weakness made it difficult to climb stairs.",
+          "spanish": "Debilidad",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Malaise",
+          "definition": "General feeling of discomfort or uneasiness",
+          "context": "The patient reported malaise and body aches.",
+          "spanish": "Malestar general",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Weight loss",
+          "definition": "Decrease in body weight, often unintentional",
+          "context": "Unexplained weight loss prompted further investigation.",
+          "spanish": "Pérdida de peso",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Loss of appetite",
+          "definition": "Reduced desire to eat",
+          "context": "Loss of appetite accompanied the gastrointestinal symptoms.",
+          "spanish": "Pérdida de apetito / Anorexia",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Night sweats",
+          "definition": "Excessive sweating during sleep",
+          "context": "Night sweats required changing bed linens multiple times.",
+          "spanish": "Sudores nocturnos",
+          "category": "General symptoms"
+        },
+        {
+          "term": "Sharp pain",
+          "definition": "Sudden, intense, and well-defined pain sensation",
+          "context": "She felt a sharp pain in her chest when breathing deeply.",
+          "spanish": "Dolor agudo / punzante",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Dull pain",
+          "definition": "Persistent, less intense, and poorly defined pain",
+          "context": "He described a dull pain in his lower back.",
+          "spanish": "Dolor sordo",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Aching",
+          "definition": "Continuous, dull pain",
+          "context": "The patient reported aching joints throughout the body.",
+          "spanish": "Dolor continuo / molesto",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Throbbing",
+          "definition": "Pain with a pulsating or beating sensation",
+          "context": "A throbbing headache accompanied the migraine.",
+          "spanish": "Dolor pulsátil / palpitante",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Burning",
+          "definition": "Pain sensation similar to being burned",
+          "context": "Burning pain in the stomach suggested acid reflux.",
+          "spanish": "Dolor ardiente / quemazón",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Shooting pain",
+          "definition": "Pain that travels or radiates suddenly",
+          "context": "Shooting pain down the leg indicated nerve compression.",
+          "spanish": "Dolor lancinante / fulgurante",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Stabbing",
+          "definition": "Sharp, piercing pain like being stabbed",
+          "context": "Stabbing chest pain requires immediate evaluation.",
+          "spanish": "Dolor punzante",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Cramping",
+          "definition": "Pain from involuntary muscle contractions",
+          "context": "Abdominal cramping accompanied the diarrhea.",
+          "spanish": "Dolor de tipo cólico / calambre",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Radiating pain",
+          "definition": "Pain that spreads from one area to another",
+          "context": "Radiating pain from the back to the arm suggested nerve involvement.",
+          "spanish": "Dolor irradiado",
+          "category": "Pain descriptors"
+        },
+        {
+          "term": "Mild pain",
+          "definition": "Low intensity pain that doesn't significantly interfere with activities",
+          "context": "The patient rated the pain as mild, about 2 out of 10.",
+          "spanish": "Dolor leve",
+          "category": "Pain intensity"
+        },
+        {
+          "term": "Moderate pain",
+          "definition": "Medium intensity pain that somewhat limits activities",
+          "context": "Moderate pain required over-the-counter pain medication.",
+          "spanish": "Dolor moderado",
+          "category": "Pain intensity"
+        },
+        {
+          "term": "Severe pain",
+          "definition": "High intensity pain significantly limiting activities",
+          "context": "Severe pain prevented the patient from working.",
+          "spanish": "Dolor severo / intenso",
+          "category": "Pain intensity"
+        },
+        {
+          "term": "Acute pain",
+          "definition": "Sudden onset pain of short duration",
+          "context": "Acute pain following injury required immediate treatment.",
+          "spanish": "Dolor agudo",
+          "category": "Pain duration"
+        },
+        {
+          "term": "Chronic pain",
+          "definition": "Long-lasting pain persisting beyond normal healing time",
+          "context": "Chronic pain management required a multidisciplinary approach.",
+          "spanish": "Dolor crónico",
+          "category": "Pain duration"
+        },
+        {
+          "term": "Cough",
+          "definition": "Sudden expulsion of air from the lungs",
+          "context": "A persistent cough lasted for three weeks.",
+          "spanish": "Tos",
+          "category": "Respiratory symptoms"
+        },
+        {
+          "term": "Shortness of breath",
+          "definition": "Difficulty breathing or feeling unable to get enough air",
+          "context": "Shortness of breath worsened with physical exertion.",
+          "spanish": "Dificultad respiratoria / Disnea",
+          "category": "Respiratory symptoms"
+        },
+        {
+          "term": "Wheezing",
+          "definition": "High-pitched whistling sound when breathing",
+          "context": "Wheezing indicated airway constriction in the lungs.",
+          "spanish": "Sibilancias",
+          "category": "Respiratory symptoms"
+        },
+        {
+          "term": "Chest pain",
+          "definition": "Discomfort or pain in the chest area",
+          "context": "Chest pain radiating to the arm requires cardiac evaluation.",
+          "spanish": "Dolor torácico",
+          "category": "Respiratory symptoms"
+        },
+        {
+          "term": "Nausea",
+          "definition": "Feeling of sickness with urge to vomit",
+          "context": "Nausea accompanied the migraine headache.",
+          "spanish": "Náuseas",
+          "category": "Gastrointestinal symptoms"
+        },
+        {
+          "term": "Vomiting",
+          "definition": "Forceful expulsion of stomach contents through the mouth",
+          "context": "Persistent vomiting led to dehydration.",
+          "spanish": "Vómitos",
+          "category": "Gastrointestinal symptoms"
+        },
+        {
+          "term": "Diarrhea",
+          "definition": "Frequent loose or watery bowel movements",
+          "context": "Diarrhea lasting more than two days requires medical attention.",
+          "spanish": "Diarrea",
+          "category": "Gastrointestinal symptoms"
+        },
+        {
+          "term": "Constipation",
+          "definition": "Difficulty passing stools or infrequent bowel movements",
+          "context": "Chronic constipation required dietary modifications.",
+          "spanish": "Estreñimiento",
+          "category": "Gastrointestinal symptoms"
+        },
+        {
+          "term": "Abdominal pain",
+          "definition": "Discomfort in the stomach or belly area",
+          "context": "Severe abdominal pain localized to the right lower quadrant.",
+          "spanish": "Dolor abdominal",
+          "category": "Gastrointestinal symptoms"
+        },
+        {
+          "term": "Headache",
+          "definition": "Pain in the head or upper neck",
+          "context": "The headache was accompanied by sensitivity to light.",
+          "spanish": "Dolor de cabeza / Cefalea",
+          "category": "Neurological symptoms"
+        },
+        {
+          "term": "Dizziness",
+          "definition": "Feeling of lightheadedness or unsteadiness",
+          "context": "Dizziness when standing suggested low blood pressure.",
+          "spanish": "Mareo / Vértigo",
+          "category": "Neurological symptoms"
+        },
+        {
+          "term": "Numbness",
+          "definition": "Loss of sensation in a body part",
+          "context": "Numbness in the fingers indicated possible nerve compression.",
+          "spanish": "Entumecimiento / Adormecimiento",
+          "category": "Neurological symptoms"
+        },
+        {
+          "term": "Rash",
+          "definition": "Area of irritated or swollen skin",
+          "context": "An itchy rash appeared after taking the medication.",
+          "spanish": "Erupción cutánea / Sarpullido",
+          "category": "Skin symptoms"
+        },
+        {
+          "term": "Swelling",
+          "definition": "Enlargement of a body part due to fluid accumulation",
+          "context": "Ankle swelling worsened by the end of the day.",
+          "spanish": "Hinchazón / Edema",
+          "category": "Skin symptoms"
+        }
+      ]
+    },
+    {
+      "unitNumber": 6,
+      "unitTitle": "Injuries & Wounds",
+      "course": "1º Curso",
+      "category": "Lesiones y traumatismos",
+      "vocabulary": [
+        {
+          "term": "Laceration",
+          "definition": "Deep cut or tear in the skin",
+          "context": "The laceration required twelve stitches to close.",
+          "spanish": "Laceración / Desgarro",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "Abrasion",
+          "definition": "Scrape where skin is rubbed away",
+          "context": "The abrasion on his knee was cleaned and bandaged.",
+          "spanish": "Abrasión / Raspadura",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "Contusion",
+          "definition": "Bruise caused by blunt trauma damaging blood vessels",
+          "context": "The contusion on her arm turned purple and yellow.",
+          "spanish": "Contusión / Moretón",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "Puncture wound",
+          "definition": "Deep narrow wound caused by sharp object",
+          "context": "The puncture wound from the nail required tetanus vaccination.",
+          "spanish": "Herida punzante",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "Incision",
+          "definition": "Clean cut made deliberately, often surgical",
+          "context": "The surgical incision was closed with absorbable sutures.",
+          "spanish": "Incisión",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "Avulsion",
+          "definition": "Wound where tissue is torn away from body",
+          "context": "The avulsion injury required reconstructive surgery.",
+          "spanish": "Avulsión / Arrancamiento",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "First-degree burn",
+          "definition": "Superficial burn affecting only outer skin layer",
+          "context": "The first-degree burn caused redness and mild pain.",
+          "spanish": "Quemadura de primer grado",
+          "category": "Burns"
+        },
+        {
+          "term": "Second-degree burn",
+          "definition": "Burn extending into deeper skin layers with blistering",
+          "context": "Second-degree burns require specialized wound care.",
+          "spanish": "Quemadura de segundo grado",
+          "category": "Burns"
+        },
+        {
+          "term": "Third-degree burn",
+          "definition": "Severe burn destroying all skin layers",
+          "context": "Third-degree burns often require skin grafting.",
+          "spanish": "Quemadura de tercer grado",
+          "category": "Burns"
+        },
+        {
+          "term": "Scald",
+          "definition": "Burn caused by hot liquid or steam",
+          "context": "The child suffered scalds from boiling water.",
+          "spanish": "Escaldadura",
+          "category": "Burns"
+        },
+        {
+          "term": "Pressure ulcer",
+          "definition": "Skin breakdown from prolonged pressure on one area",
+          "context": "Pressure ulcers commonly develop in bedridden patients.",
+          "spanish": "Úlcera por presión / Escara",
+          "category": "Types of wounds"
+        },
+        {
+          "term": "Simple fracture",
+          "definition": "Broken bone without breaking through skin",
+          "context": "The X-ray showed a simple fracture of the radius.",
+          "spanish": "Fractura simple / cerrada",
+          "category": "Fractures"
+        },
+        {
+          "term": "Compound fracture",
+          "definition": "Broken bone piercing through the skin",
+          "context": "The compound fracture required immediate surgical intervention.",
+          "spanish": "Fractura abierta / expuesta",
+          "category": "Fractures"
+        },
+        {
+          "term": "Greenstick fracture",
+          "definition": "Incomplete fracture where bone bends and cracks",
+          "context": "Greenstick fractures are common in children with flexible bones.",
+          "spanish": "Fractura en tallo verde",
+          "category": "Fractures"
+        },
+        {
+          "term": "Comminuted fracture",
+          "definition": "Bone broken into multiple pieces",
+          "context": "The comminuted fracture required surgical fixation with plates.",
+          "spanish": "Fractura conminuta",
+          "category": "Fractures"
+        },
+        {
+          "term": "Dislocation",
+          "definition": "Bone forced out of its normal joint position",
+          "context": "The shoulder dislocation was reduced in the emergency room.",
+          "spanish": "Luxación / Dislocación",
+          "category": "Joint injuries"
+        },
+        {
+          "term": "Sprain",
+          "definition": "Stretching or tearing of ligaments",
+          "context": "The ankle sprain required rest, ice, and elevation.",
+          "spanish": "Esguince",
+          "category": "Soft tissue injuries"
+        },
+        {
+          "term": "Strain",
+          "definition": "Stretching or tearing of muscles or tendons",
+          "context": "A back strain resulted from improper lifting technique.",
+          "spanish": "Distensión muscular / Tirón",
+          "category": "Soft tissue injuries"
+        },
+        {
+          "term": "Concussion",
+          "definition": "Mild traumatic brain injury from head impact",
+          "context": "The concussion caused temporary confusion and headache.",
+          "spanish": "Conmoción cerebral",
+          "category": "Head injuries"
+        },
+        {
+          "term": "Traumatic brain injury (TBI)",
+          "definition": "Serious brain damage from external force",
+          "context": "Severe TBI requires intensive neurological monitoring.",
+          "spanish": "Traumatismo craneoencefálico (TCE)",
+          "category": "Head injuries"
+        },
+        {
+          "term": "Whiplash",
+          "definition": "Neck injury from sudden jerking motion",
+          "context": "Whiplash from the car accident caused neck pain and stiffness.",
+          "spanish": "Latigazo cervical",
+          "category": "Neck injuries"
+        },
+        {
+          "term": "Herniated disc",
+          "definition": "Spinal disc rupture pressing on nerves",
+          "context": "The herniated disc caused radiating leg pain.",
+          "spanish": "Hernia discal",
+          "category": "Spinal injuries"
+        },
+        {
+          "term": "Superficial wound",
+          "definition": "Injury affecting only outer skin layers",
+          "context": "The superficial wound healed quickly without complications.",
+          "spanish": "Herida superficial",
+          "category": "Wound characteristics"
+        },
+        {
+          "term": "Deep wound",
+          "definition": "Injury extending into underlying tissues",
+          "context": "Deep wounds require assessment for nerve and tendon damage.",
+          "spanish": "Herida profunda",
+          "category": "Wound characteristics"
+        },
+        {
+          "term": "Clean wound",
+          "definition": "Uninfected wound with minimal tissue damage",
+          "context": "Clean wounds have lower infection risk.",
+          "spanish": "Herida limpia",
+          "category": "Wound characteristics"
+        },
+        {
+          "term": "Contaminated wound",
+          "definition": "Wound exposed to bacteria or foreign material",
+          "context": "Contaminated wounds require thorough irrigation and cleaning.",
+          "spanish": "Herida contaminada",
+          "category": "Wound characteristics"
+        },
+        {
+          "term": "Infected wound",
+          "definition": "Wound showing signs of bacterial infection",
+          "context": "The infected wound displayed redness, swelling, and pus.",
+          "spanish": "Herida infectada",
+          "category": "Wound characteristics"
+        },
+        {
+          "term": "Bleeding",
+          "definition": "Loss of blood from damaged blood vessels",
+          "context": "Apply pressure to stop the bleeding from the cut.",
+          "spanish": "Sangrado / Hemorragia",
+          "category": "Wound characteristics"
+        },
+        {
+          "term": "Sutured",
+          "definition": "Closed with stitches",
+          "context": "The wound was sutured with non-absorbable thread.",
+          "spanish": "Suturado",
+          "category": "Wound treatment"
+        },
+        {
+          "term": "Bandaged",
+          "definition": "Covered with protective dressing",
+          "context": "The bandaged wound must be kept clean and dry.",
+          "spanish": "Vendado",
+          "category": "Wound treatment"
+        }
+      ]
+    },
+    {
+      "unitNumber": 7,
+      "unitTitle": "Vital Signs & Measurements",
+      "course": "1º Curso",
+      "category": "Signos vitales",
+      "vocabulary": [
+        {
+          "term": "Temperature",
+          "definition": "Measurement of body heat in degrees",
+          "context": "Normal body temperature is approximately 37°C or 98.6°F.",
+          "spanish": "Temperatura",
+          "category": "Vital signs"
+        },
+        {
+          "term": "Fever",
+          "definition": "Abnormally elevated body temperature above 38°C",
+          "context": "A fever indicates the body is fighting an infection.",
+          "spanish": "Fiebre",
+          "category": "Temperature"
+        },
+        {
+          "term": "Pyrexia",
+          "definition": "Medical term for fever",
+          "context": "The patient presented with pyrexia of unknown origin.",
+          "spanish": "Pirexia (fiebre)",
+          "category": "Temperature"
+        },
+        {
+          "term": "Hypothermia",
+          "definition": "Dangerously low body temperature below 35°C",
+          "context": "Hypothermia requires gradual rewarming under medical supervision.",
+          "spanish": "Hipotermia",
+          "category": "Temperature"
+        },
+        {
+          "term": "Blood pressure",
+          "definition": "Force of blood against artery walls measured in mmHg",
+          "context": "Blood pressure is recorded as systolic over diastolic.",
+          "spanish": "Presión arterial / Tensión arterial",
+          "category": "Vital signs"
+        },
+        {
+          "term": "Systolic pressure",
+          "definition": "Pressure when heart contracts",
+          "context": "The systolic pressure should be below 120 mmHg.",
+          "spanish": "Presión sistólica",
+          "category": "Blood pressure"
+        },
+        {
+          "term": "Diastolic pressure",
+          "definition": "Pressure when heart relaxes between beats",
+          "context": "The diastolic pressure should be below 80 mmHg.",
+          "spanish": "Presión diastólica",
+          "category": "Blood pressure"
+        },
+        {
+          "term": "Hypertension",
+          "definition": "Abnormally high blood pressure",
+          "context": "Uncontrolled hypertension increases risk of heart disease.",
+          "spanish": "Hipertensión",
+          "category": "Blood pressure"
+        },
+        {
+          "term": "Hypotension",
+          "definition": "Abnormally low blood pressure",
+          "context": "Hypotension can cause dizziness and fainting.",
+          "spanish": "Hipotensión",
+          "category": "Blood pressure"
+        },
+        {
+          "term": "Heart rate",
+          "definition": "Number of heartbeats per minute",
+          "context": "Normal resting heart rate ranges from 60 to 100 bpm.",
+          "spanish": "Frecuencia cardíaca",
+          "category": "Vital signs"
+        },
+        {
+          "term": "Pulse",
+          "definition": "Rhythmic beating felt in arteries",
+          "context": "The nurse checked the pulse at the wrist.",
+          "spanish": "Pulso",
+          "category": "Vital signs"
+        },
+        {
+          "term": "Tachycardia",
+          "definition": "Abnormally fast heart rate above 100 bpm",
+          "context": "Tachycardia can be caused by stress, fever, or heart conditions.",
+          "spanish": "Taquicardia",
+          "category": "Heart rate"
+        },
+        {
+          "term": "Bradycardia",
+          "definition": "Abnormally slow heart rate below 60 bpm",
+          "context": "Athletes often have bradycardia due to cardiovascular conditioning.",
+          "spanish": "Bradicardia",
+          "category": "Heart rate"
+        },
+        {
+          "term": "Arrhythmia",
+          "definition": "Irregular heart rhythm",
+          "context": "Arrhythmia may require cardiac monitoring and medication.",
+          "spanish": "Arritmia",
+          "category": "Heart rate"
+        },
+        {
+          "term": "Respiratory rate",
+          "definition": "Number of breaths per minute",
+          "context": "Normal adult respiratory rate is 12 to 20 breaths per minute.",
+          "spanish": "Frecuencia respiratoria",
+          "category": "Vital signs"
+        },
+        {
+          "term": "Tachypnea",
+          "definition": "Abnormally rapid breathing",
+          "context": "Tachypnea may indicate respiratory distress.",
+          "spanish": "Taquipnea",
+          "category": "Respiratory rate"
+        },
+        {
+          "term": "Bradypnea",
+          "definition": "Abnormally slow breathing",
+          "context": "Bradypnea can result from medication or neurological conditions.",
+          "spanish": "Bradipnea",
+          "category": "Respiratory rate"
+        },
+        {
+          "term": "Apnea",
+          "definition": "Temporary cessation of breathing",
+          "context": "Sleep apnea causes repeated breathing pauses during sleep.",
+          "spanish": "Apnea",
+          "category": "Respiratory rate"
+        },
+        {
+          "term": "Oxygen saturation (SpO2)",
+          "definition": "Percentage of oxygen in blood measured by pulse oximeter",
+          "context": "Normal oxygen saturation is 95% or above.",
+          "spanish": "Saturación de oxígeno",
+          "category": "Vital signs"
+        },
+        {
+          "term": "Pain scale",
+          "definition": "Numerical rating system for pain intensity from 0-10",
+          "context": "Please rate your pain on a scale from 0 to 10.",
+          "spanish": "Escala de dolor",
+          "category": "Measurements"
+        },
+        {
+          "term": "Blood glucose level",
+          "definition": "Amount of sugar in blood measured in mg/dL or mmol/L",
+          "context": "Fasting blood glucose should be between 70 and 100 mg/dL.",
+          "spanish": "Nivel de glucosa en sangre / Glucemia",
+          "category": "Measurements"
+        },
+        {
+          "term": "Body Mass Index (BMI)",
+          "definition": "Measurement relating weight to height",
+          "context": "BMI helps assess whether weight is within healthy range.",
+          "spanish": "Índice de masa corporal (IMC)",
+          "category": "Measurements"
+        }
+      ]
+    },
+    {
+      "unitNumber": 8,
+      "unitTitle": "Medical Documentation - Complete Set",
+      "course": "1º Curso",
+      "category": "Documentación sanitaria",
+      "vocabulary": [
+        {
+          "term": "Medical record",
+          "definition": "Complete document containing all patient health information",
+          "context": "The nurse updated the patient's medical record after the consultation.",
+          "spanish": "Historia clínica",
+          "category": "Core documents"
+        },
+        {
+          "term": "Admission form",
+          "definition": "Document completed when patient enters healthcare facility",
+          "context": "Please fill out this admission form with your personal details.",
+          "spanish": "Formulario de ingreso",
+          "category": "Core documents"
+        },
+        {
+          "term": "Discharge summary",
+          "definition": "Report prepared when patient leaves the hospital",
+          "context": "The discharge summary includes treatment received and follow-up instructions.",
+          "spanish": "Informe de alta",
+          "category": "Core documents"
+        },
+        {
+          "term": "Consent form",
+          "definition": "Legal document where patient agrees to medical treatment",
+          "context": "The patient must sign the consent form before surgery.",
+          "spanish": "Formulario de consentimiento",
+          "category": "Legal documents"
+        },
+        {
+          "term": "Progress notes",
+          "definition": "Ongoing documentation of patient's condition and treatment",
+          "context": "The doctor recorded daily progress notes in the chart.",
+          "spanish": "Notas de evolución",
+          "category": "Clinical notes"
+        },
+        {
+          "term": "Nursing notes",
+          "definition": "Nurses' documentation of patient care and observations",
+          "context": "Nursing notes detailed vital signs and patient responses.",
+          "spanish": "Notas de enfermería",
+          "category": "Clinical notes"
+        },
+        {
+          "term": "Consultation report",
+          "definition": "Specialist's assessment and recommendations",
+          "context": "The consultation report from cardiology was added to the file.",
+          "spanish": "Informe de consulta",
+          "category": "Clinical notes"
+        },
+        {
+          "term": "Lab requisition form",
+          "definition": "Order form requesting laboratory tests",
+          "context": "Complete the lab requisition form for blood work.",
+          "spanish": "Solicitud de laboratorio / Volante de analítica",
+          "category": "Diagnostic orders"
+        },
+        {
+          "term": "Radiology report",
+          "definition": "Radiologist's interpretation of imaging studies",
+          "context": "The radiology report confirmed pneumonia on the chest X-ray.",
+          "spanish": "Informe de radiología",
+          "category": "Diagnostic reports"
+        },
+        {
+          "term": "Medication administration record (MAR)",
+          "definition": "Log documenting all medications given to patient",
+          "context": "Nurses sign the MAR after administering each dose.",
+          "spanish": "Registro de administración de medicamentos",
+          "category": "Medication documents"
+        },
+        {
+          "term": "Incident report",
+          "definition": "Documentation of unusual occurrences or adverse events",
+          "context": "An incident report was filed after the patient fall.",
+          "spanish": "Informe de incidencias",
+          "category": "Quality documents"
+        },
+        {
+          "term": "Transfer form",
+          "definition": "Document used when moving patient between facilities",
+          "context": "The transfer form accompanied the patient to the rehabilitation center.",
+          "spanish": "Formulario de traslado",
+          "category": "Administrative documents"
+        },
+        {
+          "term": "Advance directive",
+          "definition": "Legal document stating medical wishes for future care",
+          "context": "The advance directive specified preferences for end-of-life care.",
+          "spanish": "Voluntades anticipadas",
+          "category": "Legal documents"
+        },
+        {
+          "term": "Living will",
+          "definition": "Document specifying desired medical treatments",
+          "context": "Her living will indicated she did not want artificial life support.",
+          "spanish": "Testamento vital",
+          "category": "Legal documents"
+        },
+        {
+          "term": "DNR order",
+          "definition": "Do Not Resuscitate instruction preventing CPR attempts",
+          "context": "The DNR order was clearly documented in the patient's chart.",
+          "spanish": "Orden de no reanimación",
+          "category": "Legal documents"
+        },
+        {
+          "term": "Insurance claim",
+          "definition": "Request for payment submitted to insurance company",
+          "context": "The hospital submitted an insurance claim for the emergency treatment.",
+          "spanish": "Reclamación al seguro",
+          "category": "Financial documents"
+        },
+        {
+          "term": "Medical history",
+          "definition": "Record of patient's past illnesses and treatments",
+          "context": "The doctor reviewed her medical history before prescribing medication.",
+          "spanish": "Historial médico / Antecedentes",
+          "category": "Core documents"
+        },
+        {
+          "term": "Prescription",
+          "definition": "Written order for medication from a doctor",
+          "context": "Take this prescription to the pharmacy to get your antibiotics.",
+          "spanish": "Receta médica",
+          "category": "Medication documents"
+        },
+        {
+          "term": "Lab results",
+          "definition": "Reports from medical tests performed in laboratory",
+          "context": "Your lab results show normal cholesterol levels.",
+          "spanish": "Resultados de laboratorio",
+          "category": "Diagnostic reports"
+        },
+        {
+          "term": "Referral",
+          "definition": "Recommendation to see a specialist doctor",
+          "context": "My GP gave me a referral to see an orthopedic surgeon.",
+          "spanish": "Derivación / Volante",
+          "category": "Administrative documents"
+        },
+        {
+          "term": "Medical certificate",
+          "definition": "Official document confirming a medical condition",
+          "context": "You need a medical certificate to justify your sick leave.",
+          "spanish": "Certificado médico / Parte médico",
+          "category": "Legal documents"
+        }
+      ]
+    },
+    {
+      "unitNumber": 9,
+      "unitTitle": "Healthcare Systems & Insurance",
+      "course": "1º Curso",
+      "category": "Sistemas sanitarios",
+      "vocabulary": [
+        {
+          "term": "Public healthcare",
+          "definition": "Government-funded health services available to all citizens",
+          "context": "Public healthcare in Spain is provided through the National Health System.",
+          "spanish": "Sanidad pública",
+          "category": "Healthcare systems"
+        },
+        {
+          "term": "Private healthcare",
+          "definition": "Medical services paid directly by patient or private insurance",
+          "context": "Private healthcare often offers shorter waiting times.",
+          "spanish": "Sanidad privada",
+          "category": "Healthcare systems"
+        },
+        {
+          "term": "Universal healthcare",
+          "definition": "Health coverage provided to all residents regardless of ability to pay",
+          "context": "Many European countries have universal healthcare systems.",
+          "spanish": "Sanidad universal",
+          "category": "Healthcare systems"
+        },
+        {
+          "term": "Health insurance",
+          "definition": "Coverage that pays for medical expenses",
+          "context": "Do you have health insurance or will you pay out of pocket?",
+          "spanish": "Seguro médico / Seguro de salud",
+          "category": "Insurance"
+        },
+        {
+          "term": "Premium",
+          "definition": "Regular payment for insurance coverage",
+          "context": "Monthly insurance premiums are deducted from my paycheck.",
+          "spanish": "Prima de seguro",
+          "category": "Insurance costs"
+        },
+        {
+          "term": "Deductible",
+          "definition": "Amount patient pays before insurance coverage begins",
+          "context": "You must meet your annual deductible before insurance pays.",
+          "spanish": "Franquicia",
+          "category": "Insurance costs"
+        },
+        {
+          "term": "Co-payment",
+          "definition": "Fixed amount paid by patient for each medical service",
+          "context": "There is a $20 co-payment for specialist visits.",
+          "spanish": "Copago",
+          "category": "Insurance costs"
+        },
+        {
+          "term": "Out-of-pocket",
+          "definition": "Medical expenses paid directly by patient",
+          "context": "Out-of-pocket costs can add up even with insurance.",
+          "spanish": "De su bolsillo / Pago directo",
+          "category": "Insurance costs"
+        },
+        {
+          "term": "Coverage",
+          "definition": "Extent of services paid by insurance",
+          "context": "Check your coverage before scheduling elective procedures.",
+          "spanish": "Cobertura",
+          "category": "Insurance terms"
+        },
+        {
+          "term": "Network provider",
+          "definition": "Healthcare professional contracted with insurance company",
+          "context": "Seeing network providers reduces out-of-pocket costs.",
+          "spanish": "Proveedor dentro de la red",
+          "category": "Insurance terms"
+        },
+        {
+          "term": "Pre-existing condition",
+          "definition": "Medical problem that existed before getting insurance",
+          "context": "Some policies have waiting periods for pre-existing conditions.",
+          "spanish": "Condición preexistente",
+          "category": "Insurance terms"
+        },
+        {
+          "term": "Prior authorization",
+          "definition": "Insurance approval needed before certain treatments",
+          "context": "The MRI requires prior authorization from your insurance company.",
+          "spanish": "Autorización previa",
+          "category": "Insurance procedures"
+        },
+        {
+          "term": "Claim",
+          "definition": "Request for insurance payment for services received",
+          "context": "Submit claims within 30 days of receiving treatment.",
+          "spanish": "Reclamación / Solicitud de reembolso",
+          "category": "Insurance procedures"
+        },
+        {
+          "term": "Reimbursement",
+          "definition": "Payment back to patient for covered expenses",
+          "context": "Reimbursement takes 4-6 weeks after claim submission.",
+          "spanish": "Reembolso",
+          "category": "Insurance procedures"
+        },
+        {
+          "term": "Primary care",
+          "definition": "First level of healthcare for common conditions",
+          "context": "Primary care physicians coordinate overall patient health.",
+          "spanish": "Atención primaria",
+          "category": "Healthcare levels"
+        },
+        {
+          "term": "Secondary care",
+          "definition": "Specialized medical services requiring referral",
+          "context": "Secondary care includes specialist consultations and procedures.",
+          "spanish": "Atención especializada",
+          "category": "Healthcare levels"
+        },
+        {
+          "term": "Tertiary care",
+          "definition": "Highly specialized medical care for complex conditions",
+          "context": "Tertiary care facilities handle organ transplants and cancer treatment.",
+          "spanish": "Atención terciaria",
+          "category": "Healthcare levels"
+        },
+        {
+          "term": "Emergency care",
+          "definition": "Immediate treatment for life-threatening conditions",
+          "context": "Emergency care is available 24/7 for urgent medical needs.",
+          "spanish": "Atención de urgencias",
+          "category": "Healthcare types"
+        },
+        {
+          "term": "Preventive care",
+          "definition": "Healthcare focused on disease prevention",
+          "context": "Preventive care includes vaccinations and health screenings.",
+          "spanish": "Atención preventiva",
+          "category": "Healthcare types"
+        }
+      ]
+    },
+    {
+      "unitNumber": 10,
+      "unitTitle": "Diagnostic Procedures & Tests",
+      "course": "2º Curso",
+      "category": "Procedimientos diagnósticos",
+      "vocabulary": [
+        {
+          "term": "X-ray",
+          "definition": "Imaging using electromagnetic radiation to visualize bones and organs",
+          "context": "The X-ray revealed a fracture in the left femur.",
+          "spanish": "Radiografía",
+          "category": "Imaging"
+        },
+        {
+          "term": "CT scan",
+          "definition": "Computed tomography producing detailed cross-sectional images",
+          "context": "A CT scan provides more detail than standard X-rays.",
+          "spanish": "TAC / Tomografía computarizada",
+          "category": "Imaging"
+        },
+        {
+          "term": "MRI",
+          "definition": "Magnetic resonance imaging using magnetic fields for detailed images",
+          "context": "MRI is excellent for visualizing soft tissue injuries.",
+          "spanish": "Resonancia magnética",
+          "category": "Imaging"
+        },
+        {
+          "term": "Ultrasound",
+          "definition": "Imaging using sound waves to visualize internal structures",
+          "context": "Ultrasound is commonly used to monitor fetal development.",
+          "spanish": "Ecografía / Ultrasonido",
+          "category": "Imaging"
+        },
+        {
+          "term": "Mammogram",
+          "definition": "Breast X-ray used for cancer screening",
+          "context": "Women over 40 should have regular mammograms.",
+          "spanish": "Mamografía",
+          "category": "Imaging"
+        },
+        {
+          "term": "PET scan",
+          "definition": "Positron emission tomography showing metabolic activity",
+          "context": "PET scans help detect cancer spread throughout the body.",
+          "spanish": "Tomografía por emisión de positrones (TEP)",
+          "category": "Imaging"
+        },
+        {
+          "term": "Complete Blood Count (CBC)",
+          "definition": "Test measuring different components of blood",
+          "context": "The CBC showed elevated white blood cells indicating infection.",
+          "spanish": "Hemograma completo",
+          "category": "Laboratory tests"
+        },
+        {
+          "term": "Blood panel",
+          "definition": "Group of blood tests checking multiple values",
+          "context": "The comprehensive blood panel includes liver and kidney function.",
+          "spanish": "Panel de análisis de sangre",
+          "category": "Laboratory tests"
+        },
+        {
+          "term": "Glucose test",
+          "definition": "Measurement of blood sugar levels",
+          "context": "Fasting glucose tests diagnose diabetes.",
+          "spanish": "Prueba de glucosa / Glucemia",
+          "category": "Laboratory tests"
+        },
+        {
+          "term": "Lipid profile",
+          "definition": "Blood test measuring cholesterol and triglycerides",
+          "context": "The lipid profile assesses cardiovascular disease risk.",
+          "spanish": "Perfil lipídico",
+          "category": "Laboratory tests"
+        },
+        {
+          "term": "Urinalysis",
+          "definition": "Laboratory examination of urine",
+          "context": "Urinalysis can detect kidney disease and infections.",
+          "spanish": "Análisis de orina / Urinocultivo",
+          "category": "Laboratory tests"
+        },
+        {
+          "term": "Culture",
+          "definition": "Test growing microorganisms to identify infections",
+          "context": "The throat culture confirmed streptococcal infection.",
+          "spanish": "Cultivo",
+          "category": "Laboratory tests"
+        },
+        {
+          "term": "Biopsy",
+          "definition": "Removal of tissue sample for microscopic examination",
+          "context": "The biopsy was analyzed for cancer cells.",
+          "spanish": "Biopsia",
+          "category": "Tissue tests"
+        },
+        {
+          "term": "Histology",
+          "definition": "Microscopic study of tissue structure",
+          "context": "Histology results take several days to process.",
+          "spanish": "Histología",
+          "category": "Tissue tests"
+        },
+        {
+          "term": "ECG/EKG",
+          "definition": "Electrocardiogram recording heart's electrical activity",
+          "context": "The ECG showed normal sinus rhythm.",
+          "spanish": "Electrocardiograma (ECG)",
+          "category": "Functional tests"
+        },
+        {
+          "term": "Stress test",
+          "definition": "Exercise test monitoring heart function under physical strain",
+          "context": "The stress test evaluates heart performance during exertion.",
+          "spanish": "Prueba de esfuerzo",
+          "category": "Functional tests"
+        },
+        {
+          "term": "Pulmonary function test",
+          "definition": "Breathing tests measuring lung capacity and function",
+          "context": "Pulmonary function tests diagnose asthma and COPD.",
+          "spanish": "Prueba de función pulmonar / Espirometría",
+          "category": "Functional tests"
+        },
+        {
+          "term": "Endoscopy",
+          "definition": "Examination using flexible tube with camera",
+          "context": "Upper endoscopy examines the esophagus and stomach.",
+          "spanish": "Endoscopia",
+          "category": "Functional tests"
+        },
+        {
+          "term": "Colonoscopy",
+          "definition": "Endoscopic examination of the colon",
+          "context": "Colonoscopy screens for colon cancer and polyps.",
+          "spanish": "Colonoscopia",
+          "category": "Functional tests"
+        },
+        {
+          "term": "Pap smear",
+          "definition": "Cervical screening test for abnormal cells",
+          "context": "Regular Pap smears detect cervical cancer early.",
+          "spanish": "Citología vaginal / Papanicolaou",
+          "category": "Screening"
+        }
+      ]
+    },
+    {
+      "unitNumber": 11,
+      "unitTitle": "Medical & Surgical Procedures",
+      "course": "2º Curso",
+      "category": "Procedimientos médicos",
+      "vocabulary": [
+        {
+          "term": "Physical examination",
+          "definition": "Doctor's assessment of patient through observation and touch",
+          "context": "The physical examination included checking vital signs and reflexes.",
+          "spanish": "Exploración física / Examen físico",
+          "category": "Non-invasive procedures"
+        },
+        {
+          "term": "Consultation",
+          "definition": "Meeting with healthcare provider to discuss health concerns",
+          "context": "The consultation lasted thirty minutes.",
+          "spanish": "Consulta",
+          "category": "Non-invasive procedures"
+        },
+        {
+          "term": "Wound dressing",
+          "definition": "Application of bandages and protective covering to injuries",
+          "context": "Wound dressing should be changed daily to prevent infection.",
+          "spanish": "Cura de heridas / Vendaje",
+          "category": "Non-invasive procedures"
+        },
+        {
+          "term": "Catheterization",
+          "definition": "Insertion of tube into body for drainage or medication delivery",
+          "context": "Urinary catheterization helps patients unable to void naturally.",
+          "spanish": "Cateterización / Sondaje",
+          "category": "Minor procedures"
+        },
+        {
+          "term": "IV insertion",
+          "definition": "Placement of needle into vein for fluid or medication administration",
+          "context": "IV insertion allows continuous medication delivery.",
+          "spanish": "Inserción de vía intravenosa / Canalización",
+          "category": "Minor procedures"
+        },
+        {
+          "term": "Elective surgery",
+          "definition": "Planned, non-emergency surgical procedure",
+          "context": "Elective surgery can be scheduled at patient's convenience.",
+          "spanish": "Cirugía electiva / programada",
+          "category": "Surgery types"
+        },
+        {
+          "term": "Emergency surgery",
+          "definition": "Urgent surgical procedure required immediately",
+          "context": "Emergency surgery was performed to repair the ruptured appendix.",
+          "spanish": "Cirugía de urgencia",
+          "category": "Surgery types"
+        },
+        {
+          "term": "Minimally invasive surgery",
+          "definition": "Surgical techniques using small incisions",
+          "context": "Minimally invasive surgery reduces recovery time and scarring.",
+          "spanish": "Cirugía mínimamente invasiva",
+          "category": "Surgery types"
+        },
+        {
+          "term": "Open surgery",
+          "definition": "Traditional surgery with large incision",
+          "context": "Open surgery provides direct access to the surgical site.",
+          "spanish": "Cirugía abierta",
+          "category": "Surgery types"
+        },
+        {
+          "term": "Appendectomy",
+          "definition": "Surgical removal of the appendix",
+          "context": "Appendectomy is commonly performed for appendicitis.",
+          "spanish": "Apendicectomía",
+          "category": "Common surgeries"
+        },
+        {
+          "term": "Caesarean section",
+          "definition": "Surgical delivery of baby through abdominal incision",
+          "context": "Caesarean section was necessary due to fetal distress.",
+          "spanish": "Cesárea",
+          "category": "Common surgeries"
+        },
+        {
+          "term": "Cholecystectomy",
+          "definition": "Surgical removal of gallbladder",
+          "context": "Laparoscopic cholecystectomy has faster recovery than open surgery.",
+          "spanish": "Colecistectomía",
+          "category": "Common surgeries"
+        },
+        {
+          "term": "Hernia repair",
+          "definition": "Surgery to fix weakened abdominal wall",
+          "context": "Hernia repair prevents tissue protrusion through muscle.",
+          "spanish": "Reparación de hernia / Hernioplastia",
+          "category": "Common surgeries"
+        },
+        {
+          "term": "Joint replacement",
+          "definition": "Surgery replacing damaged joint with artificial implant",
+          "context": "Hip joint replacement restored mobility and reduced pain.",
+          "spanish": "Reemplazo articular / Prótesis",
+          "category": "Common surgeries"
+        },
+        {
+          "term": "Incision",
+          "definition": "Surgical cut made through tissue",
+          "context": "The surgeon made a vertical incision in the abdomen.",
+          "spanish": "Incisión",
+          "category": "Surgical terms"
+        },
+        {
+          "term": "Suture",
+          "definition": "Stitches closing surgical wounds",
+          "context": "Absorbable sutures dissolve naturally over time.",
+          "spanish": "Sutura / Puntos",
+          "category": "Surgical terms"
+        },
+        {
+          "term": "Anastomosis",
+          "definition": "Surgical connection between two structures",
+          "context": "Bowel anastomosis reconnected the intestinal segments.",
+          "spanish": "Anastomosis",
+          "category": "Surgical terms"
+        },
+        {
+          "term": "Resection",
+          "definition": "Surgical removal of part of an organ or tissue",
+          "context": "Bowel resection removed the diseased intestinal section.",
+          "spanish": "Resección",
+          "category": "Surgical terms"
+        },
+        {
+          "term": "Bypass",
+          "definition": "Surgical rerouting around blocked or damaged area",
+          "context": "Coronary bypass surgery improves blood flow to the heart.",
+          "spanish": "Bypass / Derivación",
+          "category": "Surgical terms"
+        },
+        {
+          "term": "General anesthesia",
+          "definition": "Medication rendering patient unconscious during surgery",
+          "context": "General anesthesia ensures the patient feels no pain during the procedure.",
+          "spanish": "Anestesia general",
+          "category": "Anesthesia"
+        },
+        {
+          "term": "Local anesthesia",
+          "definition": "Numbing medication for specific body area",
+          "context": "Local anesthesia was sufficient for the minor procedure.",
+          "spanish": "Anestesia local",
+          "category": "Anesthesia"
+        },
+        {
+          "term": "Sedation",
+          "definition": "Medication inducing relaxation and reduced awareness",
+          "context": "Conscious sedation kept the patient calm but responsive.",
+          "spanish": "Sedación",
+          "category": "Anesthesia"
+        },
+        {
+          "term": "Epidural",
+          "definition": "Anesthesia injected into spinal area",
+          "context": "Epidural anesthesia is commonly used during childbirth.",
+          "spanish": "Epidural",
+          "category": "Anesthesia"
+        }
+      ]
+    },
+    {
+      "unitNumber": 12,
+      "unitTitle": "Medications & Pharmacology",
+      "course": "2º Curso",
+      "category": "Medicamentos",
+      "vocabulary": [
+        {
+          "term": "Antibiotic",
+          "definition": "Medication killing or inhibiting bacterial growth",
+          "context": "Antibiotics are ineffective against viral infections.",
+          "spanish": "Antibiótico",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Analgesic",
+          "definition": "Pain-relieving medication",
+          "context": "Over-the-counter analgesics include ibuprofen and acetaminophen.",
+          "spanish": "Analgésico",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Anti-inflammatory",
+          "definition": "Medication reducing inflammation",
+          "context": "Non-steroidal anti-inflammatory drugs help reduce swelling.",
+          "spanish": "Antiinflamatorio",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Anticoagulant",
+          "definition": "Medication preventing blood clot formation",
+          "context": "Anticoagulants reduce stroke risk in atrial fibrillation.",
+          "spanish": "Anticoagulante",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Antihypertensive",
+          "definition": "Medication lowering blood pressure",
+          "context": "Antihypertensive drugs help prevent heart disease complications.",
+          "spanish": "Antihipertensivo",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Bronchodilator",
+          "definition": "Medication opening airways in lungs",
+          "context": "Bronchodilators provide quick relief for asthma attacks.",
+          "spanish": "Broncodilatador",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Diuretic",
+          "definition": "Medication increasing urine production",
+          "context": "Diuretics help reduce fluid retention and blood pressure.",
+          "spanish": "Diurético",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Insulin",
+          "definition": "Hormone medication regulating blood sugar",
+          "context": "Type 1 diabetics require insulin injections daily.",
+          "spanish": "Insulina",
+          "category": "Drug categories"
+        },
+        {
+          "term": "Oral administration",
+          "definition": "Taking medication by mouth",
+          "context": "Oral administration is the most common medication route.",
+          "spanish": "Administración oral / Vía oral",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Intravenous (IV)",
+          "definition": "Injection directly into vein",
+          "context": "IV antibiotics provide rapid bloodstream delivery.",
+          "spanish": "Intravenoso / Vía intravenosa",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Intramuscular (IM)",
+          "definition": "Injection into muscle tissue",
+          "context": "IM injections are commonly given in the deltoid or gluteal muscles.",
+          "spanish": "Intramuscular / Vía intramuscular",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Subcutaneous (SC)",
+          "definition": "Injection under the skin",
+          "context": "SC insulin injections are typically given in the abdomen.",
+          "spanish": "Subcutáneo / Vía subcutánea",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Topical",
+          "definition": "Applied directly to skin surface",
+          "context": "Topical creams treat localized skin conditions.",
+          "spanish": "Tópico / Vía tópica",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Inhalation",
+          "definition": "Breathing medication into lungs",
+          "context": "Inhalation therapy delivers medication directly to airways.",
+          "spanish": "Inhalación / Vía inhalatoria",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Rectal",
+          "definition": "Administration through rectum",
+          "context": "Rectal suppositories are used when oral intake is impossible.",
+          "spanish": "Rectal / Vía rectal",
+          "category": "Administration routes"
+        },
+        {
+          "term": "Dose",
+          "definition": "Specific amount of medication given at one time",
+          "context": "The prescribed dose is 500mg twice daily.",
+          "spanish": "Dosis",
+          "category": "Dosage terms"
+        },
+        {
+          "term": "Frequency",
+          "definition": "How often medication should be taken",
+          "context": "The frequency is every six hours around the clock.",
+          "spanish": "Frecuencia",
+          "category": "Dosage terms"
+        },
+        {
+          "term": "Duration",
+          "definition": "Length of time medication should be taken",
+          "context": "The antibiotic duration is ten days.",
+          "spanish": "Duración",
+          "category": "Dosage terms"
+        },
+        {
+          "term": "PRN (as needed)",
+          "definition": "Medication taken when symptoms occur",
+          "context": "Take pain medication PRN for breakthrough pain.",
+          "spanish": "A demanda / Según necesidad",
+          "category": "Dosage terms"
+        },
+        {
+          "term": "Stat (immediately)",
+          "definition": "Medication to be given right away",
+          "context": "Administer epinephrine stat for anaphylactic reaction.",
+          "spanish": "Inmediatamente / Urgente",
+          "category": "Dosage terms"
+        },
+        {
+          "term": "Generic name",
+          "definition": "Official medical name of medication",
+          "context": "The generic name for Tylenol is acetaminophen.",
+          "spanish": "Nombre genérico",
+          "category": "Pharmacy terms"
+        },
+        {
+          "term": "Brand name",
+          "definition": "Commercial name given by manufacturer",
+          "context": "Advil is the brand name for ibuprofen.",
+          "spanish": "Nombre comercial / Marca",
+          "category": "Pharmacy terms"
+        },
+        {
+          "term": "Side effects",
+          "definition": "Unintended secondary effects of medication",
+          "context": "Common side effects include drowsiness and nausea.",
+          "spanish": "Efectos secundarios",
+          "category": "Pharmacy terms"
+        },
+        {
+          "term": "Contraindications",
+          "definition": "Conditions making medication use inadvisable",
+          "context": "Pregnancy is a contraindication for this medication.",
+          "spanish": "Contraindicaciones",
+          "category": "Pharmacy terms"
+        },
+        {
+          "term": "Drug interactions",
+          "definition": "Effects when medications are taken together",
+          "context": "Check for drug interactions before prescribing new medications.",
+          "spanish": "Interacciones medicamentosas",
+          "category": "Pharmacy terms"
+        },
+        {
+          "term": "Adverse reactions",
+          "definition": "Harmful or undesirable response to medication",
+          "context": "Report serious adverse reactions to the healthcare provider immediately.",
+          "spanish": "Reacciones adversas",
+          "category": "Pharmacy terms"
+        }
+      ]
+    },
+    {
+      "unitNumber": 13,
+      "unitTitle": "Medical Specialties & Departments",
+      "course": "2º Curso",
+      "category": "Especialidades médicas",
+      "vocabulary": [
+        {
+          "term": "Cardiology",
+          "definition": "Medical specialty dealing with heart and cardiovascular system",
+          "context": "The cardiology department treats heart disease and arrhythmias.",
+          "spanish": "Cardiología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Oncology",
+          "definition": "Medical specialty focusing on cancer diagnosis and treatment",
+          "context": "Oncology offers chemotherapy and radiation therapy services.",
+          "spanish": "Oncología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Neurology",
+          "definition": "Medical specialty treating nervous system disorders",
+          "context": "Neurology evaluates patients with seizures and headaches.",
+          "spanish": "Neurología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Orthopedics",
+          "definition": "Medical specialty treating musculoskeletal conditions",
+          "context": "Orthopedics handles fractures, arthritis, and joint problems.",
+          "spanish": "Traumatología / Ortopedia",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Pediatrics",
+          "definition": "Medical specialty caring for infants, children, and adolescents",
+          "context": "Pediatrics provides vaccinations and developmental assessments.",
+          "spanish": "Pediatría",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Obstetrics",
+          "definition": "Medical specialty managing pregnancy and childbirth",
+          "context": "Obstetrics monitors fetal development and manages deliveries.",
+          "spanish": "Obstetricia",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Gynecology",
+          "definition": "Medical specialty treating female reproductive system",
+          "context": "Gynecology performs Pap smears and treats menstrual disorders.",
+          "spanish": "Ginecología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Psychiatry",
+          "definition": "Medical specialty treating mental health disorders",
+          "context": "Psychiatry provides medication management and therapy.",
+          "spanish": "Psiquiatría",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Dermatology",
+          "definition": "Medical specialty treating skin, hair, and nail conditions",
+          "context": "Dermatology diagnoses skin cancer and treats acne.",
+          "spanish": "Dermatología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Ophthalmology",
+          "definition": "Medical specialty treating eye diseases and vision problems",
+          "context": "Ophthalmology performs cataract surgery and treats glaucoma.",
+          "spanish": "Oftalmología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "ENT (Otolaryngology)",
+          "definition": "Medical specialty treating ear, nose, and throat disorders",
+          "context": "ENT specialists treat hearing loss and sinus infections.",
+          "spanish": "Otorrinolaringología (ORL)",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Gastroenterology",
+          "definition": "Medical specialty treating digestive system disorders",
+          "context": "Gastroenterology performs colonoscopies and treats IBS.",
+          "spanish": "Gastroenterología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Urology",
+          "definition": "Medical specialty treating urinary system and male reproductive organs",
+          "context": "Urology manages kidney stones and prostate conditions.",
+          "spanish": "Urología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Endocrinology",
+          "definition": "Medical specialty treating hormone and gland disorders",
+          "context": "Endocrinology manages diabetes and thyroid disease.",
+          "spanish": "Endocrinología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Pulmonology",
+          "definition": "Medical specialty treating respiratory system diseases",
+          "context": "Pulmonology treats asthma, COPD, and lung infections.",
+          "spanish": "Neumología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "Rheumatology",
+          "definition": "Medical specialty treating autoimmune and joint diseases",
+          "context": "Rheumatology manages arthritis and lupus.",
+          "spanish": "Reumatología",
+          "category": "Medical specialties"
+        },
+        {
+          "term": "General surgery",
+          "definition": "Surgical specialty performing operations on various body systems",
+          "context": "General surgery handles appendectomies and hernia repairs.",
+          "spanish": "Cirugía general",
+          "category": "Surgical specialties"
+        },
+        {
+          "term": "Cardiovascular surgery",
+          "definition": "Surgical specialty operating on heart and blood vessels",
+          "context": "Cardiovascular surgery performs bypass and valve replacement.",
+          "spanish": "Cirugía cardiovascular",
+          "category": "Surgical specialties"
+        },
+        {
+          "term": "Neurosurgery",
+          "definition": "Surgical specialty operating on brain and nervous system",
+          "context": "Neurosurgery removes brain tumors and treats spinal injuries.",
+          "spanish": "Neurocirugía",
+          "category": "Surgical specialties"
+        },
+        {
+          "term": "Plastic surgery",
+          "definition": "Surgical specialty reconstructing or altering body tissues",
+          "context": "Plastic surgery includes both reconstructive and cosmetic procedures.",
+          "spanish": "Cirugía plástica",
+          "category": "Surgical specialties"
+        },
+        {
+          "term": "Pathology",
+          "definition": "Medical specialty studying disease through laboratory analysis",
+          "context": "Pathology examines tissue samples to diagnose cancer.",
+          "spanish": "Anatomía patológica",
+          "category": "Support departments"
+        },
+        {
+          "term": "Radiology",
+          "definition": "Medical specialty using imaging to diagnose and treat disease",
+          "context": "Radiology interprets X-rays, CT scans, and MRIs.",
+          "spanish": "Radiología",
+          "category": "Support departments"
+        },
+        {
+          "term": "Physiotherapy",
+          "definition": "Treatment using physical methods like exercise and massage",
+          "context": "Physiotherapy helps restore movement after injury.",
+          "spanish": "Fisioterapia",
+          "category": "Support departments"
+        },
+        {
+          "term": "Occupational therapy",
+          "definition": "Treatment helping patients perform daily activities",
+          "context": "Occupational therapy teaches adaptive techniques for independence.",
+          "spanish": "Terapia ocupacional",
+          "category": "Support departments"
+        },
+        {
+          "term": "Speech therapy",
+          "definition": "Treatment for communication and swallowing disorders",
+          "context": "Speech therapy helps stroke patients regain language skills.",
+          "spanish": "Logopedia",
+          "category": "Support departments"
+        }
+      ]
+    },
+    {
+      "unitNumber": 14,
+      "unitTitle": "Patient Care & Management",
+      "course": "2º Curso",
+      "category": "Atención al paciente",
+      "vocabulary": [
+        {
+          "term": "Admission",
+          "definition": "Process of formally accepting patient into hospital",
+          "context": "Admission includes registration and initial assessment.",
+          "spanish": "Ingreso hospitalario",
+          "category": "Patient journey"
+        },
+        {
+          "term": "Assessment",
+          "definition": "Systematic evaluation of patient's condition",
+          "context": "Nursing assessment includes vital signs and health history.",
+          "spanish": "Valoración / Evaluación",
+          "category": "Patient journey"
+        },
+        {
+          "term": "Treatment plan",
+          "definition": "Strategy outlining medical interventions for patient",
+          "context": "The treatment plan was developed collaboratively by the care team.",
+          "spanish": "Plan de tratamiento",
+          "category": "Patient journey"
+        },
+        {
+          "term": "Discharge planning",
+          "definition": "Preparation for patient leaving healthcare facility",
+          "context": "Discharge planning begins on admission day.",
+          "spanish": "Planificación del alta",
+          "category": "Patient journey"
+        },
+        {
+          "term": "Follow-up",
+          "definition": "Continuing care after initial treatment",
+          "context": "Follow-up appointments monitor recovery progress.",
+          "spanish": "Seguimiento",
+          "category": "Patient journey"
+        },
+        {
+          "term": "Acute care",
+          "definition": "Treatment for severe, short-term illness or injury",
+          "context": "Acute care focuses on immediate medical needs.",
+          "spanish": "Atención aguda",
+          "category": "Care types"
+        },
+        {
+          "term": "Chronic care",
+          "definition": "Long-term management of ongoing health conditions",
+          "context": "Chronic care requires patient education and lifestyle modifications.",
+          "spanish": "Atención crónica",
+          "category": "Care types"
+        },
+        {
+          "term": "Palliative care",
+          "definition": "Treatment focusing on comfort rather than cure",
+          "context": "Palliative care addresses pain and quality of life.",
+          "spanish": "Cuidados paliativos",
+          "category": "Care types"
+        },
+        {
+          "term": "Rehabilitation",
+          "definition": "Process restoring function after illness or injury",
+          "context": "Rehabilitation includes physical and occupational therapy.",
+          "spanish": "Rehabilitación",
+          "category": "Care types"
+        },
+        {
+          "term": "Home care",
+          "definition": "Medical services provided in patient's residence",
+          "context": "Home care allows patients to recover in familiar surroundings.",
+          "spanish": "Atención domiciliaria",
+          "category": "Care types"
+        },
+        {
+          "term": "Stable condition",
+          "definition": "Patient status showing no significant changes",
+          "context": "The patient is in stable condition following surgery.",
+          "spanish": "Estado estable",
+          "category": "Patient status"
+        },
+        {
+          "term": "Critical condition",
+          "definition": "Life-threatening patient status requiring intensive monitoring",
+          "context": "The patient remains in critical condition in the ICU.",
+          "spanish": "Estado crítico",
+          "category": "Patient status"
+        },
+        {
+          "term": "Serious condition",
+          "definition": "Severe patient status with uncertain outcome",
+          "context": "The patient is in serious but stable condition.",
+          "spanish": "Estado grave",
+          "category": "Patient status"
+        },
+        {
+          "term": "Fair condition",
+          "definition": "Patient status showing signs of improvement",
+          "context": "The patient's condition improved from serious to fair.",
+          "spanish": "Estado regular / Evolución favorable",
+          "category": "Patient status"
+        },
+        {
+          "term": "Good condition",
+          "definition": "Patient status with positive indicators and prognosis",
+          "context": "The patient is in good condition and ready for discharge.",
+          "spanish": "Buen estado",
+          "category": "Patient status"
+        },
+        {
+          "term": "Bed bath",
+          "definition": "Bathing patient unable to get out of bed",
+          "context": "Nurses provide bed baths for immobilized patients.",
+          "spanish": "Baño en cama",
+          "category": "Nursing care"
+        },
+        {
+          "term": "Feeding assistance",
+          "definition": "Helping patients eat meals",
+          "context": "Feeding assistance ensures adequate nutrition for dependent patients.",
+          "spanish": "Asistencia en la alimentación",
+          "category": "Nursing care"
+        },
+        {
+          "term": "Mobility assistance",
+          "definition": "Helping patients move or transfer",
+          "context": "Mobility assistance prevents falls and promotes independence.",
+          "spanish": "Asistencia en la movilidad",
+          "category": "Nursing care"
+        },
+        {
+          "term": "Turning/Repositioning",
+          "definition": "Changing bedridden patient's position regularly",
+          "context": "Turning patients every two hours prevents pressure ulcers.",
+          "spanish": "Cambios posturales",
+          "category": "Nursing care"
+        },
+        {
+          "term": "Vital signs monitoring",
+          "definition": "Regular measurement of temperature, pulse, BP, and respiration",
+          "context": "Vital signs monitoring detects early signs of complications.",
+          "spanish": "Monitorización de signos vitales",
+          "category": "Nursing care"
+        }
+      ]
+    },
+    {
+      "unitNumber": 15,
+      "unitTitle": "Medical Coding & Classification",
+      "course": "2º Curso",
+      "category": "Codificación sanitaria",
+      "vocabulary": [
+        {
+          "term": "ICD-10",
+          "definition": "International Classification of Diseases, 10th revision",
+          "context": "ICD-10 codes classify diagnoses for billing and statistics.",
+          "spanish": "CIE-10 (Clasificación Internacional de Enfermedades)",
+          "category": "Classification systems"
+        },
+        {
+          "term": "CPT codes",
+          "definition": "Current Procedural Terminology coding system for procedures",
+          "context": "CPT codes describe medical, surgical, and diagnostic services.",
+          "spanish": "Códigos CPT (terminología de procedimientos)",
+          "category": "Classification systems"
+        },
+        {
+          "term": "DRG",
+          "definition": "Diagnosis-Related Group used for hospital payment",
+          "context": "DRG classification affects reimbursement for hospital stays.",
+          "spanish": "GRD (Grupos Relacionados por el Diagnóstico)",
+          "category": "Classification systems"
+        },
+        {
+          "term": "Primary diagnosis",
+          "definition": "Main condition responsible for patient's admission",
+          "context": "The primary diagnosis determines the principal DRG assignment.",
+          "spanish": "Diagnóstico principal",
+          "category": "Coding terminology"
+        },
+        {
+          "term": "Secondary diagnosis",
+          "definition": "Additional conditions affecting patient care",
+          "context": "Secondary diagnoses include pre-existing conditions present on admission.",
+          "spanish": "Diagnóstico secundario",
+          "category": "Coding terminology"
+        },
+        {
+          "term": "Comorbidity",
+          "definition": "Pre-existing condition present at admission",
+          "context": "Diabetes is a common comorbidity affecting surgical outcomes.",
+          "spanish": "Comorbilidad",
+          "category": "Coding terminology"
+        },
+        {
+          "term": "Complication",
+          "definition": "Condition arising during hospitalization",
+          "context": "Post-operative infection is coded as a complication.",
+          "spanish": "Complicación",
+          "category": "Coding terminology"
+        },
+        {
+          "term": "Principal procedure",
+          "definition": "Main surgical or diagnostic intervention performed",
+          "context": "The principal procedure was appendectomy.",
+          "spanish": "Procedimiento principal",
+          "category": "Coding terminology"
+        },
+        {
+          "term": "Secondary procedure",
+          "definition": "Additional procedures performed during same encounter",
+          "context": "Hernia repair was documented as a secondary procedure.",
+          "spanish": "Procedimiento secundario",
+          "category": "Coding terminology"
+        },
+        {
+          "term": "Medical coder",
+          "definition": "Professional who assigns diagnostic and procedure codes",
+          "context": "Medical coders must have detailed knowledge of anatomy and pathology.",
+          "spanish": "Codificador/a clínico/a",
+          "category": "Professional roles"
+        },
+        {
+          "term": "Clinical documentation specialist",
+          "definition": "Professional ensuring complete and accurate medical records",
+          "context": "Clinical documentation specialists query physicians for clarification.",
+          "spanish": "Especialista en documentación clínica",
+          "category": "Professional roles"
+        },
+        {
+          "term": "Abstracting",
+          "definition": "Process of extracting relevant data from medical records",
+          "context": "Abstracting involves identifying diagnoses and procedures for coding.",
+          "spanish": "Extracción de datos / Resumen",
+          "category": "Coding processes"
+        },
+        {
+          "term": "Sequencing",
+          "definition": "Ordering diagnosis codes by importance",
+          "context": "Proper sequencing places the principal diagnosis first.",
+          "spanish": "Secuenciación",
+          "category": "Coding processes"
+        },
+        {
+          "term": "Specificity",
+          "definition": "Level of detail in code selection",
+          "context": "Specificity requires using the most detailed code available.",
+          "spanish": "Especificidad",
+          "category": "Coding principles"
+        },
+        {
+          "term": "Laterality",
+          "definition": "Indication of right or left side of body",
+          "context": "Laterality must be documented for fractures and joint conditions.",
+          "spanish": "Lateralidad",
+          "category": "Coding principles"
+        },
+        {
+          "term": "Encoder software",
+          "definition": "Computer program assisting with code selection",
+          "context": "Encoder software suggests appropriate codes based on documentation.",
+          "spanish": "Software de codificación",
+          "category": "Coding tools"
+        },
+        {
+          "term": "Code lookup",
+          "definition": "Process of searching for correct code",
+          "context": "Code lookup requires understanding medical terminology and anatomy.",
+          "spanish": "Búsqueda de códigos",
+          "category": "Coding processes"
+        },
+        {
+          "term": "Coding guidelines",
+          "definition": "Official rules governing code assignment",
+          "context": "Coding guidelines are updated annually with ICD revisions.",
+          "spanish": "Guías de codificación",
+          "category": "Coding principles"
+        },
+        {
+          "term": "Query",
+          "definition": "Request to physician for clarification of documentation",
+          "context": "A query was sent requesting specification of infection type.",
+          "spanish": "Consulta / Aclaración",
+          "category": "Coding processes"
+        },
+        {
+          "term": "Audit",
+          "definition": "Review of coding accuracy and compliance",
+          "context": "Regular audits ensure coding quality and regulatory compliance.",
+          "spanish": "Auditoría",
+          "category": "Quality assurance"
+        }
+      ]
+    },
+    {
+      "unitNumber": 16,
+      "unitTitle": "Health Information Systems",
+      "course": "2º Curso",
+      "category": "Sistemas de información",
+      "vocabulary": [
+        {
+          "term": "Electronic Health Record (EHR)",
+          "definition": "Digital version of patient's complete medical history",
+          "context": "EHR systems allow real-time access to patient information.",
+          "spanish": "Historia clínica electrónica (HCE)",
+          "category": "Systems"
+        },
+        {
+          "term": "Electronic Medical Record (EMR)",
+          "definition": "Digital record of patient care within single organization",
+          "context": "EMR differs from EHR in scope and interoperability.",
+          "spanish": "Registro médico electrónico",
+          "category": "Systems"
+        },
+        {
+          "term": "Health Information System (HIS)",
+          "definition": "Comprehensive system managing all hospital information",
+          "context": "HIS integrates clinical, financial, and administrative data.",
+          "spanish": "Sistema de información sanitaria (SIS)",
+          "category": "Systems"
+        },
+        {
+          "term": "PACS",
+          "definition": "Picture Archiving and Communication System for medical images",
+          "context": "PACS stores and transmits radiology images digitally.",
+          "spanish": "Sistema de archivo y comunicación de imágenes",
+          "category": "Systems"
+        },
+        {
+          "term": "Clinical Decision Support System (CDSS)",
+          "definition": "Software providing evidence-based clinical guidance",
+          "context": "CDSS alerts providers to potential drug interactions.",
+          "spanish": "Sistema de ayuda a la decisión clínica",
+          "category": "Systems"
+        },
+        {
+          "term": "Telemedicine",
+          "definition": "Remote healthcare delivery using technology",
+          "context": "Telemedicine expands access to care in rural areas.",
+          "spanish": "Telemedicina",
+          "category": "Technology"
+        },
+        {
+          "term": "E-prescription",
+          "definition": "Electronic transmission of prescriptions to pharmacy",
+          "context": "E-prescription reduces medication errors and improves efficiency.",
+          "spanish": "Receta electrónica",
+          "category": "Technology"
+        },
+        {
+          "term": "Patient portal",
+          "definition": "Online platform for patients to access health information",
+          "context": "Patient portals allow viewing test results and scheduling appointments.",
+          "spanish": "Portal del paciente",
+          "category": "Technology"
+        },
+        {
+          "term": "Encryption",
+          "definition": "Converting data into coded form for security",
+          "context": "Encryption protects patient information during electronic transmission.",
+          "spanish": "Encriptación / Cifrado",
+          "category": "Data security"
+        },
+        {
+          "term": "Firewall",
+          "definition": "Security system protecting network from unauthorized access",
+          "context": "Firewalls prevent external threats to health information systems.",
+          "spanish": "Cortafuegos",
+          "category": "Data security"
+        },
+        {
+          "term": "Backup",
+          "definition": "Copy of data stored separately for disaster recovery",
+          "context": "Daily backups ensure data recovery in case of system failure.",
+          "spanish": "Copia de seguridad / Backup",
+          "category": "Data security"
+        },
+        {
+          "term": "Authentication",
+          "definition": "Process verifying user identity",
+          "context": "Two-factor authentication enhances system security.",
+          "spanish": "Autenticación",
+          "category": "Data security"
+        },
+        {
+          "term": "Access controls",
+          "definition": "Security measures limiting information access",
+          "context": "Access controls restrict viewing to authorized personnel only.",
+          "spanish": "Controles de acceso",
+          "category": "Data security"
+        },
+        {
+          "term": "Interoperability",
+          "definition": "Ability of systems to exchange and use information",
+          "context": "Interoperability allows different hospitals to share patient records.",
+          "spanish": "Interoperabilidad",
+          "category": "System integration"
+        },
+        {
+          "term": "Data exchange",
+          "definition": "Sharing of health information between systems",
+          "context": "Data exchange protocols ensure accurate information transfer.",
+          "spanish": "Intercambio de datos",
+          "category": "System integration"
+        },
+        {
+          "term": "HL7 standard",
+          "definition": "Health Level 7 protocol for healthcare data exchange",
+          "context": "HL7 standards facilitate communication between healthcare systems.",
+          "spanish": "Estándar HL7",
+          "category": "System integration"
+        },
+        {
+          "term": "Data migration",
+          "definition": "Process of transferring data between systems",
+          "context": "Data migration requires careful planning to maintain data integrity.",
+          "spanish": "Migración de datos",
+          "category": "System integration"
+        },
+        {
+          "term": "System downtime",
+          "definition": "Period when information system is unavailable",
+          "context": "Emergency procedures are activated during system downtime.",
+          "spanish": "Tiempo de inactividad del sistema",
+          "category": "System management"
+        },
+        {
+          "term": "User training",
+          "definition": "Education on proper system use",
+          "context": "User training is essential for successful EHR implementation.",
+          "spanish": "Formación de usuarios",
+          "category": "System management"
+        },
+        {
+          "term": "Workflow",
+          "definition": "Sequence of tasks in clinical or administrative process",
+          "context": "EHR systems should support rather than disrupt workflow.",
+          "spanish": "Flujo de trabajo",
+          "category": "System management"
+        }
+      ]
+    },
+    {
+      "unitNumber": 17,
+      "unitTitle": "Quality Assurance & Patient Safety",
+      "course": "2º Curso",
+      "category": "Calidad y seguridad",
+      "vocabulary": [
+        {
+          "term": "Quality indicators",
+          "definition": "Measurable elements of healthcare quality",
+          "context": "Quality indicators include infection rates and readmission rates.",
+          "spanish": "Indicadores de calidad",
+          "category": "Quality measurement"
+        },
+        {
+          "term": "Performance metrics",
+          "definition": "Quantitative measures of healthcare delivery",
+          "context": "Performance metrics track efficiency and effectiveness of care.",
+          "spanish": "Métricas de rendimiento",
+          "category": "Quality measurement"
+        },
+        {
+          "term": "Benchmarking",
+          "definition": "Comparing performance against established standards",
+          "context": "Benchmarking identifies areas for quality improvement.",
+          "spanish": "Evaluación comparativa / Benchmarking",
+          "category": "Quality measurement"
+        },
+        {
+          "term": "Patient safety protocols",
+          "definition": "Standardized procedures preventing harm to patients",
+          "context": "Patient safety protocols include medication verification procedures.",
+          "spanish": "Protocolos de seguridad del paciente",
+          "category": "Patient safety"
+        },
+        {
+          "term": "Adverse event",
+          "definition": "Unintended injury or complication caused by healthcare",
+          "context": "All adverse events must be reported and investigated.",
+          "spanish": "Evento adverso",
+          "category": "Patient safety"
+        },
+        {
+          "term": "Near miss",
+          "definition": "Error caught before reaching patient",
+          "context": "Near miss reporting helps prevent future adverse events.",
+          "spanish": "Cuasi-evento / Incidente sin daño",
+          "category": "Patient safety"
+        },
+        {
+          "term": "Sentinel event",
+          "definition": "Serious adverse event resulting in death or harm",
+          "context": "Sentinel events trigger immediate investigation and response.",
+          "spanish": "Evento centinela",
+          "category": "Patient safety"
+        },
+        {
+          "term": "Infection control",
+          "definition": "Practices preventing spread of infectious diseases",
+          "context": "Infection control measures reduce hospital-acquired infections.",
+          "spanish": "Control de infecciones",
+          "category": "Patient safety"
+        },
+        {
+          "term": "Hand hygiene",
+          "definition": "Proper handwashing and sanitization practices",
+          "context": "Hand hygiene is the most effective infection prevention measure.",
+          "spanish": "Higiene de manos",
+          "category": "Infection control"
+        },
+        {
+          "term": "Isolation precautions",
+          "definition": "Procedures preventing transmission of contagious diseases",
+          "context": "Contact isolation precautions require gown and gloves.",
+          "spanish": "Precauciones de aislamiento",
+          "category": "Infection control"
+        },
+        {
+          "term": "PPE",
+          "definition": "Personal Protective Equipment preventing exposure to hazards",
+          "context": "PPE includes masks, gloves, gowns, and eye protection.",
+          "spanish": "EPI (Equipo de protección individual)",
+          "category": "Infection control"
+        },
+        {
+          "term": "Sterilization",
+          "definition": "Process destroying all microorganisms",
+          "context": "Surgical instruments require sterilization between uses.",
+          "spanish": "Esterilización",
+          "category": "Infection control"
+        },
+        {
+          "term": "Risk management",
+          "definition": "Process identifying and minimizing potential problems",
+          "context": "Risk management programs reduce liability and improve safety.",
+          "spanish": "Gestión de riesgos",
+          "category": "Quality assurance"
+        },
+        {
+          "term": "Root cause analysis",
+          "definition": "Systematic investigation identifying underlying problems",
+          "context": "Root cause analysis determines why adverse events occurred.",
+          "spanish": "Análisis de causa raíz",
+          "category": "Quality assurance"
+        },
+        {
+          "term": "Quality improvement",
+          "definition": "Systematic approach to enhancing healthcare delivery",
+          "context": "Quality improvement initiatives reduce waste and variation.",
+          "spanish": "Mejora de la calidad",
+          "category": "Quality assurance"
+        },
+        {
+          "term": "Accreditation",
+          "definition": "Official recognition meeting quality standards",
+          "context": "Hospital accreditation verifies compliance with safety standards.",
+          "spanish": "Acreditación",
+          "category": "Quality assurance"
+        },
+        {
+          "term": "Audit",
+          "definition": "Systematic review of records and practices",
+          "context": "Regular audits ensure adherence to policies and procedures.",
+          "spanish": "Auditoría",
+          "category": "Quality assurance"
+        },
+        {
+          "term": "Compliance",
+          "definition": "Adherence to regulations and standards",
+          "context": "Compliance with HIPAA regulations is mandatory.",
+          "spanish": "Cumplimiento normativo",
+          "category": "Quality assurance"
+        },
+        {
+          "term": "Medication reconciliation",
+          "definition": "Process ensuring accurate medication lists",
+          "context": "Medication reconciliation occurs at each transition of care.",
+          "spanish": "Conciliación de medicación",
+          "category": "Patient safety"
+        },
+        {
+          "term": "Fall prevention",
+          "definition": "Strategies reducing patient fall risk",
+          "context": "Fall prevention includes bed alarms and non-slip footwear.",
+          "spanish": "Prevención de caídas",
+          "category": "Patient safety"
+        }
+      ]
+    },
+    {
+      "unitNumber": 18,
+      "unitTitle": "Medical Ethics & Legal Issues",
+      "course": "2º Curso",
+      "category": "Ética y aspectos legales",
+      "vocabulary": [
+        {
+          "term": "Informed consent",
+          "definition": "Agreement after receiving complete treatment information",
+          "context": "Informed consent requires explaining all risks and benefits to the patient.",
+          "spanish": "Consentimiento informado",
+          "category": "Legal requirements"
+        },
+        {
+          "term": "Capacity",
+          "definition": "Ability to understand and make healthcare decisions",
+          "context": "Patients must have mental capacity to provide informed consent.",
+          "spanish": "Capacidad",
+          "category": "Legal requirements"
+        },
+        {
+          "term": "Competence",
+          "definition": "Legal determination of decision-making ability",
+          "context": "Competence is formally assessed when decision-making ability is questioned.",
+          "spanish": "Competencia",
+          "category": "Legal requirements"
+        },
+        {
+          "term": "Confidentiality",
+          "definition": "Legal duty to keep patient information private",
+          "context": "Healthcare workers must maintain strict confidentiality about patient data.",
+          "spanish": "Confidencialidad",
+          "category": "Privacy"
+        },
+        {
+          "term": "HIPAA",
+          "definition": "US Health Insurance Portability and Accountability Act",
+          "context": "HIPAA establishes standards for protecting patient health information.",
+          "spanish": "HIPAA (Ley de privacidad de EE.UU.)",
+          "category": "Privacy regulations"
+        },
+        {
+          "term": "GDPR",
+          "definition": "European General Data Protection Regulation",
+          "context": "GDPR governs collection and processing of personal data in EU.",
+          "spanish": "RGPD (Reglamento General de Protección de Datos)",
+          "category": "Privacy regulations"
+        },
+        {
+          "term": "LOPD",
+          "definition": "Spanish Data Protection Law",
+          "context": "LOPD regulates personal data handling in Spain.",
+          "spanish": "LOPD (Ley Orgánica de Protección de Datos)",
+          "category": "Privacy regulations"
+        },
+        {
+          "term": "Medical malpractice",
+          "definition": "Professional negligence causing patient harm",
+          "context": "Medical malpractice occurs when care falls below accepted standards.",
+          "spanish": "Negligencia médica / Mala praxis",
+          "category": "Legal liability"
+        },
+        {
+          "term": "Negligence",
+          "definition": "Failure to exercise reasonable care",
+          "context": "Negligence requires proving breach of duty and resulting harm.",
+          "spanish": "Negligencia",
+          "category": "Legal liability"
+        },
+        {
+          "term": "Liability",
+          "definition": "Legal responsibility for actions or omissions",
+          "context": "Healthcare providers carry liability insurance for legal protection.",
+          "spanish": "Responsabilidad legal",
+          "category": "Legal liability"
+        },
+        {
+          "term": "Standard of care",
+          "definition": "Level of care reasonably expected from competent practitioner",
+          "context": "Standard of care is based on evidence and professional guidelines.",
+          "spanish": "Estándar de cuidado",
+          "category": "Legal liability"
+        },
+        {
+          "term": "Patient rights",
+          "definition": "Legal and ethical entitlements of healthcare recipients",
+          "context": "Patient rights include informed consent and privacy protection.",
+          "spanish": "Derechos del paciente",
+          "category": "Patient rights"
+        },
+        {
+          "term": "Advance directive",
+          "definition": "Legal document stating medical wishes for future care",
+          "context": "Advance directives guide treatment when patients cannot communicate.",
+          "spanish": "Voluntades anticipadas / Directivas anticipadas",
+          "category": "Patient rights"
+        },
+        {
+          "term": "Power of attorney",
+          "definition": "Legal authority to make decisions for another person",
+          "context": "Healthcare power of attorney designates a medical decision-maker.",
+          "spanish": "Poder notarial / Representación legal",
+          "category": "Patient rights"
+        },
+        {
+          "term": "Autonomy",
+          "definition": "Ethical principle respecting patient self-determination",
+          "context": "Autonomy requires honoring patient choices about their care.",
+          "spanish": "Autonomía",
+          "category": "Ethical principles"
+        },
+        {
+          "term": "Beneficence",
+          "definition": "Ethical obligation to do good and benefit patient",
+          "context": "Beneficence motivates healthcare providers to act in patient's best interest.",
+          "spanish": "Beneficencia",
+          "category": "Ethical principles"
+        },
+        {
+          "term": "Non-maleficence",
+          "definition": "Ethical obligation to do no harm",
+          "context": "Non-maleficence requires avoiding treatments that cause more harm than good.",
+          "spanish": "No maleficencia",
+          "category": "Ethical principles"
+        },
+        {
+          "term": "Justice",
+          "definition": "Ethical principle of fair and equitable treatment",
+          "context": "Justice requires equal access to healthcare resources.",
+          "spanish": "Justicia",
+          "category": "Ethical principles"
+        },
+        {
+          "term": "Ethics committee",
+          "definition": "Group providing guidance on ethical healthcare dilemmas",
+          "context": "Ethics committees help resolve complex end-of-life decisions.",
+          "spanish": "Comité de ética",
+          "category": "Ethical resources"
+        },
+        {
+          "term": "Whistleblower protection",
+          "definition": "Legal safeguards for reporting misconduct",
+          "context": "Whistleblower protection encourages reporting of unsafe practices.",
+          "spanish": "Protección al denunciante",
+          "category": "Legal protections"
+        }
+      ]
+    }
+  ]
+}
