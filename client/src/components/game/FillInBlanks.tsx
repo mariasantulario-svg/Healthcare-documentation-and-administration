@@ -138,6 +138,11 @@ export function FillInBlanks({ terms, onNext, onPrev, currentIndex }: FillInBlan
         <h3 className="text-center text-lg text-muted-foreground font-medium mb-2 uppercase tracking-wide text-xs">
           Complete the Sentence
         </h3>
+        {term.imageUrl && (
+          <div className="mb-4 w-full max-h-[120px] flex items-center justify-center overflow-hidden rounded-xl bg-slate-50 border border-slate-100">
+            <img src={term.imageUrl} alt={term.term} className="max-w-full max-h-[120px] object-contain" />
+          </div>
+        )}
         <p className="text-2xl text-center text-foreground font-medium leading-relaxed">
           "{contextWithBlanks}"
         </p>

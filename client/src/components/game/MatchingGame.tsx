@@ -132,7 +132,10 @@ export function MatchingGame({ terms, onComplete }: MatchingGameProps) {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 max-w-5xl mx-auto">
       <AnimatePresence>
-        {items.map((item) => (
+        {items.map((item) => {
+          const term = gameTerms.find(t => t.id === item.termId);
+          const showImage = item.type === 'term' && term?.imageUrl;
+          return (
           <motion.div
             key={item.id}
             layout
@@ -156,7 +159,12 @@ export function MatchingGame({ terms, onComplete }: MatchingGameProps) {
             `}
             onClick={() => handleCardClick(item.id)}
           >
-            <span className="text-sm sm:text-base font-medium">
+            {showImage && (
+              <div className="absolute top-2 left-2 w-10 h-10 rounded-lg overflow-hidden border border-slate-200 bg-white">
+                <img src={term?.imageUrl ?? ''} alt="" className="w-full h-full object-cover" />
+              </div>
+            )}
+            <span className={`text-sm sm:text-base font-medium ${showImage ? 'pl-12' : ''}`}>
               {item.content}
             </span>
             
@@ -180,7 +188,8 @@ export function MatchingGame({ terms, onComplete }: MatchingGameProps) {
               </motion.div>
             )}
           </motion.div>
-        ))}
+        );
+        })}
       </AnimatePresence>
     </div>
   );

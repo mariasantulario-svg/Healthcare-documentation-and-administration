@@ -113,6 +113,15 @@ export function QuizMode({ terms, onComplete }: QuizModeProps) {
       </div>
 
       <div className="bg-white rounded-3xl p-8 shadow-sm border border-border mb-8 text-center min-h-[200px] flex flex-col items-center justify-center">
+        {currentTerm.imageUrl && (
+          <div className="mb-4 w-full max-h-[140px] flex items-center justify-center overflow-hidden rounded-xl bg-slate-50 border border-slate-100">
+            <img
+              src={currentTerm.imageUrl}
+              alt={currentTerm.term}
+              className="max-w-full max-h-[140px] object-contain"
+            />
+          </div>
+        )}
         <h3 className="text-xl md:text-2xl font-medium text-foreground leading-relaxed">
           {currentTerm.definition}
         </h3>

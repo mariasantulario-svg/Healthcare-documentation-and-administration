@@ -51,3 +51,21 @@ npm start
 ```
 
 Abre `http://localhost:5000`. Si todo va bien, el mismo build funcionará en Render o Railway.
+
+---
+
+## Ver visitas a la app
+
+### Opción A: Google Analytics (recomendado, gratis)
+
+1. Entra en [Google Analytics](https://analytics.google.com) y crea una cuenta si no tienes.
+2. **Admin** (engranaje) → **Crear propiedad** → pon nombre (ej. "Health Vocab App") → **Siguiente** hasta tener la propiedad.
+3. En **Flujos de datos** → **Añadir flujo** → **Web** → URL de tu app (ej. tu URL de Render) → **Crear flujo**.
+4. Copia el **ID de medición** (formato `G-XXXXXXXXXX`).
+5. En **Render** → tu servicio → **Environment** → **Add Environment Variable**: Key `VITE_GA_MEASUREMENT_ID`, Value el ID (ej. `G-XXXXXXXXXX`).
+6. **Save Changes** y haz **Manual Deploy** para que el nuevo build use la variable.
+7. En unas horas verás visitas en Google Analytics: **Informes** → **Adquisición** / **Participación**.
+
+### Opción B: Métricas de Render
+
+En el dashboard de Render, entra en tu **Web Service** y revisa la pestaña **Metrics** (si está disponible en tu plan). Ahí puedes ver peticiones y uso.

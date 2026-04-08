@@ -3,14 +3,14 @@
     "title": "Healthcare Documentation & Administration - Complete Vocabulary",
     "cycle": "CFGS Documentación y Administración Sanitarias",
     "level": "Grado Superior",
-    "totalUnits": 18,
-    "totalTerms": 436,
+    "totalUnits": 21,
+    "totalTerms": 496,
     "courses": [
       "1º Curso",
       "2º Curso"
     ],
-    "version": "1.0",
-    "lastUpdated": "2026-02-04"
+    "version": "2.0",
+    "lastUpdated": "2026-04-08"
   },
   "units": [
     {
@@ -3206,6 +3206,450 @@
           "context": "Whistleblower protection encourages reporting of unsafe practices.",
           "spanish": "Protección al denunciante",
           "category": "Legal protections"
+        }
+      ]
+    },
+    {
+      "unitNumber": 19,
+      "unitTitle": "Medical Conditions & Patient History",
+      "course": "1º Curso",
+      "category": "Condiciones médicas e historial",
+      "vocabulary": [
+        {
+          "term": "chronic",
+          "definition": "A long-lasting condition (months or years)",
+          "context": "COPD is a chronic condition that requires lifelong management.",
+          "spanish": "crónico/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "acute",
+          "definition": "A condition that starts suddenly and is severe",
+          "context": "Appendicitis is an acute condition requiring emergency surgery.",
+          "spanish": "agudo/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "congenital",
+          "definition": "Present from birth",
+          "context": "Down syndrome is a congenital condition.",
+          "spanish": "congénito/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "infectious",
+          "definition": "Can spread from person to person",
+          "context": "Tuberculosis is an infectious disease.",
+          "spanish": "infeccioso/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "degenerative",
+          "definition": "Gets progressively worse over time",
+          "context": "Alzheimer's is a degenerative condition.",
+          "spanish": "degenerativo/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "terminal",
+          "definition": "A condition that will lead to death",
+          "context": "The patient has been diagnosed with a terminal illness.",
+          "spanish": "terminal",
+          "category": "Condition types"
+        },
+        {
+          "term": "benign",
+          "definition": "Not harmful or cancerous",
+          "context": "The tumour is benign, so it will not spread.",
+          "spanish": "benigno/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "malignant",
+          "definition": "Cancerous, likely to spread",
+          "context": "The biopsy confirmed a malignant tumour.",
+          "spanish": "maligno/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "hereditary",
+          "definition": "Passed from parents to children through genes",
+          "context": "Haemophilia is a hereditary condition.",
+          "spanish": "hereditario/a",
+          "category": "Condition types"
+        },
+        {
+          "term": "autoimmune",
+          "definition": "The body attacks its own healthy cells",
+          "context": "Rheumatoid arthritis is an autoimmune disease.",
+          "spanish": "autoinmune",
+          "category": "Condition types"
+        },
+        {
+          "term": "diagnosis",
+          "definition": "The identification of a disease",
+          "context": "The diagnosis was confirmed after blood tests.",
+          "spanish": "diagnóstico",
+          "category": "Patient history"
+        },
+        {
+          "term": "prognosis",
+          "definition": "The likely course or outcome of a disease",
+          "context": "The prognosis is good; the patient should recover fully.",
+          "spanish": "pronóstico",
+          "category": "Patient history"
+        },
+        {
+          "term": "comorbidity",
+          "definition": "Two or more conditions at the same time",
+          "context": "The patient has diabetes and hypertension as comorbidities.",
+          "spanish": "comorbilidad",
+          "category": "Patient history"
+        },
+        {
+          "term": "relapse",
+          "definition": "A return of symptoms after improvement",
+          "context": "The cancer relapsed after two years of remission.",
+          "spanish": "recaída",
+          "category": "Patient history"
+        },
+        {
+          "term": "remission",
+          "definition": "A period when symptoms decrease or disappear",
+          "context": "The patient has been in remission for three years.",
+          "spanish": "remisión",
+          "category": "Patient history"
+        },
+        {
+          "term": "symptom",
+          "definition": "What the patient feels (e.g. pain, nausea)",
+          "context": "Chest pain is the main symptom reported by the patient.",
+          "spanish": "síntoma",
+          "category": "Patient history"
+        },
+        {
+          "term": "sign",
+          "definition": "What the doctor observes (e.g. fever, rash)",
+          "context": "Fever is a sign that the doctor can measure.",
+          "spanish": "signo",
+          "category": "Patient history"
+        },
+        {
+          "term": "onset",
+          "definition": "When a disease or symptoms first appear",
+          "context": "The onset of symptoms was three days ago.",
+          "spanish": "inicio/aparición",
+          "category": "Patient history"
+        },
+        {
+          "term": "flare-up",
+          "definition": "A sudden worsening of a chronic condition",
+          "context": "The patient had a flare-up of arthritis this week.",
+          "spanish": "brote/crisis",
+          "category": "Patient history"
+        },
+        {
+          "term": "underlying condition",
+          "definition": "The main disease behind the symptoms",
+          "context": "The underlying condition was an undiagnosed HIV.",
+          "spanish": "condición subyacente",
+          "category": "Patient history"
+        }
+      ]
+    },
+    {
+      "unitNumber": 20,
+      "unitTitle": "Common Diseases by Body System",
+      "course": "1º Curso",
+      "category": "Enfermedades por sistema corporal",
+      "vocabulary": [
+        {
+          "term": "heart attack (myocardial infarction)",
+          "definition": "Death of heart muscle tissue due to blocked blood supply",
+          "context": "The patient was admitted after a heart attack.",
+          "spanish": "infarto de miocardio",
+          "category": "Cardiovascular"
+        },
+        {
+          "term": "heart failure",
+          "definition": "The heart cannot pump blood effectively",
+          "context": "Heart failure requires lifelong medication.",
+          "spanish": "insuficiencia cardíaca",
+          "category": "Cardiovascular"
+        },
+        {
+          "term": "hypertension",
+          "definition": "Persistently high blood pressure",
+          "context": "The patient has had hypertension since 2018.",
+          "spanish": "hipertensión",
+          "category": "Cardiovascular"
+        },
+        {
+          "term": "stroke",
+          "definition": "Interruption of blood supply to the brain",
+          "context": "The patient lost movement after a stroke.",
+          "spanish": "ictus/accidente cerebrovascular",
+          "category": "Cardiovascular"
+        },
+        {
+          "term": "arrhythmia",
+          "definition": "Irregular heart rhythm",
+          "context": "The ECG showed an arrhythmia.",
+          "spanish": "arritmia",
+          "category": "Cardiovascular"
+        },
+        {
+          "term": "pneumonia",
+          "definition": "Infection causing inflammation of the lungs",
+          "context": "The chest X-ray confirmed pneumonia.",
+          "spanish": "neumonía",
+          "category": "Respiratory"
+        },
+        {
+          "term": "asthma",
+          "definition": "Chronic condition causing airway inflammation and difficulty breathing",
+          "context": "The patient uses an inhaler for asthma.",
+          "spanish": "asma",
+          "category": "Respiratory"
+        },
+        {
+          "term": "COPD",
+          "definition": "Chronic obstructive pulmonary disease - progressive lung disease",
+          "context": "After years of smoking, the patient has COPD.",
+          "spanish": "EPOC",
+          "category": "Respiratory"
+        },
+        {
+          "term": "tuberculosis (TB)",
+          "definition": "Bacterial infection primarily affecting the lungs",
+          "context": "TB requires a long course of antibiotics.",
+          "spanish": "tuberculosis",
+          "category": "Respiratory"
+        },
+        {
+          "term": "lung cancer",
+          "definition": "Malignant tumour in the lung tissue",
+          "context": "Lung cancer is often linked to smoking.",
+          "spanish": "cáncer de pulmón",
+          "category": "Respiratory"
+        },
+        {
+          "term": "diabetes mellitus",
+          "definition": "Metabolic disease affecting blood sugar regulation",
+          "context": "The patient has had diabetes mellitus for 14 years.",
+          "spanish": "diabetes mellitus",
+          "category": "Endocrine"
+        },
+        {
+          "term": "hypothyroidism",
+          "definition": "Underactive thyroid gland producing insufficient hormones",
+          "context": "Hypothyroidism is treated with Levothyroxine.",
+          "spanish": "hipotiroidismo",
+          "category": "Endocrine"
+        },
+        {
+          "term": "obesity",
+          "definition": "Excessive body fat accumulation affecting health",
+          "context": "Obesity increases the risk of diabetes.",
+          "spanish": "obesidad",
+          "category": "Endocrine"
+        },
+        {
+          "term": "osteoarthritis",
+          "definition": "Degenerative joint disease causing cartilage breakdown",
+          "context": "The patient has osteoarthritis in both knees.",
+          "spanish": "artrosis",
+          "category": "Musculoskeletal"
+        },
+        {
+          "term": "rheumatoid arthritis",
+          "definition": "Autoimmune disease causing joint inflammation",
+          "context": "Rheumatoid arthritis affects the joints symmetrically.",
+          "spanish": "artritis reumatoide",
+          "category": "Musculoskeletal"
+        },
+        {
+          "term": "osteoporosis",
+          "definition": "Condition where bones become weak and brittle",
+          "context": "Osteoporosis increases the risk of fractures.",
+          "spanish": "osteoporosis",
+          "category": "Musculoskeletal"
+        },
+        {
+          "term": "Alzheimer's disease",
+          "definition": "Progressive neurodegenerative disease affecting memory",
+          "context": "Alzheimer's disease primarily affects the brain.",
+          "spanish": "enfermedad de Alzheimer",
+          "category": "Neurological"
+        },
+        {
+          "term": "epilepsy",
+          "definition": "Neurological disorder causing recurrent seizures",
+          "context": "The neurologist confirmed epilepsy after two seizures.",
+          "spanish": "epilepsia",
+          "category": "Neurological"
+        },
+        {
+          "term": "multiple sclerosis (MS)",
+          "definition": "Autoimmune disease affecting the nervous system",
+          "context": "MS causes damage to the protective covering of nerves.",
+          "spanish": "esclerosis múltiple",
+          "category": "Neurological"
+        },
+        {
+          "term": "migraine",
+          "definition": "Severe headache often with visual disturbances",
+          "context": "The patient suffers from severe migraines.",
+          "spanish": "migraña",
+          "category": "Neurological"
+        }
+      ]
+    },
+    {
+      "unitNumber": 21,
+      "unitTitle": "Medications, Dosage & ICD Codes",
+      "course": "1º Curso",
+      "category": "Medicamentos, posología y codificación",
+      "vocabulary": [
+        {
+          "term": "analgesic",
+          "definition": "Medication that reduces pain",
+          "context": "Paracetamol is a common analgesic.",
+          "spanish": "analgésico",
+          "category": "Medication types"
+        },
+        {
+          "term": "antibiotic",
+          "definition": "Medication that treats bacterial infections",
+          "context": "The doctor prescribed an antibiotic for the chest infection.",
+          "spanish": "antibiótico",
+          "category": "Medication types"
+        },
+        {
+          "term": "anticoagulant",
+          "definition": "Medication that prevents blood clots",
+          "context": "Sintrom is an anticoagulant prescribed after heart attacks.",
+          "spanish": "anticoagulante",
+          "category": "Medication types"
+        },
+        {
+          "term": "antihypertensive",
+          "definition": "Medication that lowers blood pressure",
+          "context": "Enalapril is an antihypertensive.",
+          "spanish": "antihipertensivo",
+          "category": "Medication types"
+        },
+        {
+          "term": "anti-inflammatory",
+          "definition": "Medication that reduces inflammation",
+          "context": "Ibuprofen is an anti-inflammatory drug.",
+          "spanish": "antiinflamatorio",
+          "category": "Medication types"
+        },
+        {
+          "term": "antidiabetic",
+          "definition": "Medication that controls blood sugar levels",
+          "context": "Metformin is an antidiabetic taken twice daily.",
+          "spanish": "antidiabético",
+          "category": "Medication types"
+        },
+        {
+          "term": "statin",
+          "definition": "Medication that lowers cholesterol",
+          "context": "Atorvastatin is a statin prescribed for high cholesterol.",
+          "spanish": "estatina",
+          "category": "Medication types"
+        },
+        {
+          "term": "bronchodilator",
+          "definition": "Medication that opens the airways",
+          "context": "Salbutamol is a bronchodilator used for asthma.",
+          "spanish": "broncodilatador",
+          "category": "Medication types"
+        },
+        {
+          "term": "diuretic",
+          "definition": "Medication that increases urine production",
+          "context": "Furosemide is a diuretic used for fluid retention.",
+          "spanish": "diurético",
+          "category": "Medication types"
+        },
+        {
+          "term": "sedative",
+          "definition": "Medication that calms or induces sleep",
+          "context": "The patient was given a sedative before the procedure.",
+          "spanish": "sedante",
+          "category": "Medication types"
+        },
+        {
+          "term": "once daily",
+          "definition": "Take the medication one time per day",
+          "context": "Enalapril 10mg, oral, once daily.",
+          "spanish": "una vez al día",
+          "category": "Dosage"
+        },
+        {
+          "term": "twice daily",
+          "definition": "Take the medication two times per day",
+          "context": "Metformin 850mg, oral, twice daily after meals.",
+          "spanish": "dos veces al día",
+          "category": "Dosage"
+        },
+        {
+          "term": "as needed (PRN)",
+          "definition": "Take only when symptoms appear",
+          "context": "Paracetamol 1g, oral, as needed for pain.",
+          "spanish": "según necesidad",
+          "category": "Dosage"
+        },
+        {
+          "term": "at bedtime",
+          "definition": "Take before going to sleep",
+          "context": "Insulin glargine 20 units at bedtime.",
+          "spanish": "al acostarse",
+          "category": "Dosage"
+        },
+        {
+          "term": "oral / by mouth",
+          "definition": "Medication taken through the mouth",
+          "context": "Most tablets are administered orally.",
+          "spanish": "oral / por vía oral",
+          "category": "Routes"
+        },
+        {
+          "term": "intravenous (IV)",
+          "definition": "Medication given directly into a vein",
+          "context": "The antibiotic was administered intravenously.",
+          "spanish": "intravenoso (IV)",
+          "category": "Routes"
+        },
+        {
+          "term": "inhaled",
+          "definition": "Medication breathed in through the mouth or nose",
+          "context": "Salbutamol is an inhaled bronchodilator.",
+          "spanish": "inhalado",
+          "category": "Routes"
+        },
+        {
+          "term": "subcutaneous (SC)",
+          "definition": "Medication injected under the skin",
+          "context": "Insulin is injected subcutaneously.",
+          "spanish": "subcutáneo (SC)",
+          "category": "Routes"
+        },
+        {
+          "term": "topical",
+          "definition": "Medication applied directly to the skin",
+          "context": "The cream is applied topically twice daily.",
+          "spanish": "tópico",
+          "category": "Routes"
+        },
+        {
+          "term": "referral letter",
+          "definition": "Document from a GP referring a patient to a specialist",
+          "context": "The GP wrote a referral letter to the neurologist.",
+          "spanish": "carta de derivación",
+          "category": "Clinical documents"
         }
       ]
     }
